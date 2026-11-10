@@ -1,0 +1,19 @@
+{
+  "purpose": "public result reporting only; not an inference or training configuration",
+  "dataset": "FOR-instance",
+  "model": "TL",
+  "results_file": "../results/aggregate_metrics.csv",
+  "arms": [
+    "baseline",
+    "A",
+    "AB"
+  ],
+  "columns": [
+    "G",
+    "NIR",
+    "IoU",
+    "mAP"
+  ],
+  "percentage_decimals": 3,
+  "method_parameters_included": false
+}

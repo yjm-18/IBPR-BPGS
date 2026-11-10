@@ -1,0 +1,97 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 502,
+    "sha256": "51192efe24b9220fefdfa923999f1819595ad7a92b81a18673f16510e1915c6b"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2020,
+    "sha256": "f0c56a87d90fb0dbaa867d387b39b87cec521d71852f2b335f8fa06769e9e967"
+  },
+  {
+    "path": "configs/FOR-instance_SAT.json",
+    "bytes": 372,
+    "sha256": "709a4dd1bc1f8a53b3854ae1edc4f595edd7db939c53ae321c95c99a625639a0"
+  },
+  {
+    "path": "configs/FOR-instance_TL.json",
+    "bytes": 371,
+    "sha256": "299215d523b17756356e9d70c9b1f7dda83bd202242548bc303b848432fab73e"
+  },
+  {
+    "path": "configs/LAUTx_SAT.json",
+    "bytes": 365,
+    "sha256": "a6090f3bd4cd85a51e950d32386daabe45e8059d9de0b79595af529c42467603"
+  },
+  {
+    "path": "configs/LAUTx_TL.json",
+    "bytes": 364,
+    "sha256": "a0a0749131a59bc4ce4146eda2ade7efb74c1b87d8b96169d005135e6f18b7bd"
+  },
+  {
+    "path": "configs/Ofental_SAT.json",
+    "bytes": 367,
+    "sha256": "0867ebe7aa4eb0bb97d8dfe49687de77bc494f97cfde7147ce4960efc429911e"
+  },
+  {
+    "path": "configs/Ofental_TL.json",
+    "bytes": 366,
+    "sha256": "11e138ccbc2b497442fe327f9d4dedb5dbc4340081a66291a06b37a814f3cc1e"
+  },
+  {
+    "path": "configs/README.md",
+    "bytes": 288,
+    "sha256": "63bd559283107427a4007ae09ef5496a27e807c5e4cdd2a0685f218ff09c91dc"
+  },
+  {
+    "path": "configs/index.json",
+    "bytes": 237,
+    "sha256": "328edb6c00a73a4fc8fa0fe67ff29a8f1b2faea8a5d4f6ee988ea640929318b5"
+  },
+  {
+    "path": "docs/AVAILABILITY.md",
+    "bytes": 1235,
+    "sha256": "d22b4730736f5983c63d0e48460155a3e9ddfb0d9ced63daa94c8a0f7004b755"
+  },
+  {
+    "path": "docs/CONFIGURATION.md",
+    "bytes": 693,
+    "sha256": "afc08c71e3caa821bbb9c2a1b8e7ce5ceb9a9ae3acbdfeba439d0ab5c05f61cf"
+  },
+  {
+    "path": "docs/RESULTS.md",
+    "bytes": 1827,
+    "sha256": "7927f74a557a89adbbab3275d96bb102d2edff41dfa5ae2bbf9dd74bd553d16b"
+  },
+  {
+    "path": "results/RESULTS.md",
+    "bytes": 1695,
+    "sha256": "2379c237a464c2246a07468b9f2dbf2e08b814ba8ddfaaa1a8544c6cdf012b14"
+  },
+  {
+    "path": "results/aggregate_metrics.csv",
+    "bytes": 1326,
+    "sha256": "79a50311ab892ade49b580eee775484c18f58de8ba7a898572c5c437bfebb85b"
+  },
+  {
+    "path": "results/aggregate_metrics.json",
+    "bytes": 3643,
+    "sha256": "b38a238ade21cd7acc3d5f770885b8018c95695d229dbebb5b27597a940369bd"
+  },
+  {
+    "path": "results/baseline_prf.csv",
+    "bytes": 416,
+    "sha256": "adcaa92a63e62b72031451316e19381c644adc1a8ad88b927f29b5af00dff877"
+  },
+  {
+    "path": "results/evaluation_scale.csv",
+    "bytes": 110,
+    "sha256": "e3ace439c6cab72ddc0a15376510df7bc01ede56bd376e2c4a33bcf8adad1df2"
+  },
+  {
+    "path": "tools/render_results.py",
+    "bytes": 1723,
+    "sha256": "40f2c0487c629460a9f19c01742733db7b09fd0812b80e8e65338e7a7ff96039"
+  }
+]

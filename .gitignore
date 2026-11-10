@@ -1,0 +1,24 @@
+# Only the explicitly public materials should be added to this repository.
+*
+!.gitignore
+!README.md
+!MANIFEST.json
+!results/
+!results/*.csv
+!results/aggregate_metrics.json
+!results/RESULTS.md
+!configs/
+!configs/FOR-instance_TL.json
+!configs/FOR-instance_SAT.json
+!configs/Ofental_TL.json
+!configs/Ofental_SAT.json
+!configs/LAUTx_TL.json
+!configs/LAUTx_SAT.json
+!configs/index.json
+!configs/README.md
+!docs/
+!docs/RESULTS.md
+!docs/CONFIGURATION.md
+!docs/AVAILABILITY.md
+!tools/
+!tools/render_results.py

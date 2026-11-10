@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    "FOR-instance_TL.json",
+    "FOR-instance_SAT.json",
+    "Ofental_TL.json",
+    "Ofental_SAT.json",
+    "LAUTx_TL.json",
+    "LAUTx_SAT.json"
+  ],
+  "scope": "aggregate report selection and formatting only"
+}

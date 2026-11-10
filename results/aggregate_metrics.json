@@ -1,0 +1,173 @@
+{
+  "status": "candidate results; manuscript in preparation",
+  "units": {
+    "G": "points",
+    "NIR": "percent",
+    "IoU": "percent",
+    "mAP": "percent"
+  },
+  "summary": [
+    {
+      "dataset": "FOR-instance",
+      "model": "TL",
+      "arm": "baseline",
+      "G": 0,
+      "NIR": null,
+      "IoU": 67.46628963637038,
+      "mAP": 40.0053499191258
+    },
+    {
+      "dataset": "FOR-instance",
+      "model": "TL",
+      "arm": "A",
+      "G": 67078,
+      "NIR": 47.14307802594774,
+      "IoU": 68.63055681898938,
+      "mAP": 42.08895933498747
+    },
+    {
+      "dataset": "FOR-instance",
+      "model": "TL",
+      "arm": "AB",
+      "G": 66959,
+      "NIR": 51.83467773150227,
+      "IoU": 68.60106477462614,
+      "mAP": 41.87642091187569
+    },
+    {
+      "dataset": "FOR-instance",
+      "model": "SAT",
+      "arm": "baseline",
+      "G": 0,
+      "NIR": null,
+      "IoU": 76.62782114860606,
+      "mAP": 48.6946726522233
+    },
+    {
+      "dataset": "FOR-instance",
+      "model": "SAT",
+      "arm": "A",
+      "G": 31894,
+      "NIR": 31.641500823429038,
+      "IoU": 76.97550572858572,
+      "mAP": 49.91751837522634
+    },
+    {
+      "dataset": "FOR-instance",
+      "model": "SAT",
+      "arm": "AB",
+      "G": 31930,
+      "NIR": 32.59493670886076,
+      "IoU": 76.97621458871856,
+      "mAP": 49.835145883424154
+    },
+    {
+      "dataset": "Ofental",
+      "model": "TL",
+      "arm": "baseline",
+      "G": 0,
+      "NIR": null,
+      "IoU": 48.15989389183406,
+      "mAP": 15.983289582918323
+    },
+    {
+      "dataset": "Ofental",
+      "model": "TL",
+      "arm": "A",
+      "G": 21430,
+      "NIR": 30.84607191179434,
+      "IoU": 49.28654180418247,
+      "mAP": 17.34952659078685
+    },
+    {
+      "dataset": "Ofental",
+      "model": "TL",
+      "arm": "AB",
+      "G": 21430,
+      "NIR": 30.84607191179434,
+      "IoU": 49.28654180418247,
+      "mAP": 17.34952659078685
+    },
+    {
+      "dataset": "Ofental",
+      "model": "SAT",
+      "arm": "baseline",
+      "G": 0,
+      "NIR": null,
+      "IoU": 51.8606755809781,
+      "mAP": 16.769468622007164
+    },
+    {
+      "dataset": "Ofental",
+      "model": "SAT",
+      "arm": "A",
+      "G": 33783,
+      "NIR": 36.979103954814626,
+      "IoU": 53.450744413084564,
+      "mAP": 19.696289845534405
+    },
+    {
+      "dataset": "Ofental",
+      "model": "SAT",
+      "arm": "AB",
+      "G": 33783,
+      "NIR": 36.979103954814626,
+      "IoU": 53.450744413084564,
+      "mAP": 19.696289845534405
+    },
+    {
+      "dataset": "LAUTx",
+      "model": "TL",
+      "arm": "baseline",
+      "G": 0,
+      "NIR": null,
+      "IoU": 77.15629253374946,
+      "mAP": 62.27339495707949
+    },
+    {
+      "dataset": "LAUTx",
+      "model": "TL",
+      "arm": "A",
+      "G": 21673,
+      "NIR": 23.092495711378433,
+      "IoU": 77.53626844344201,
+      "mAP": 63.041715153482855
+    },
+    {
+      "dataset": "LAUTx",
+      "model": "TL",
+      "arm": "AB",
+      "G": 26381,
+      "NIR": 39.015913393279696,
+      "IoU": 77.58592030427828,
+      "mAP": 63.07001829499169
+    },
+    {
+      "dataset": "LAUTx",
+      "model": "SAT",
+      "arm": "baseline",
+      "G": 0,
+      "NIR": null,
+      "IoU": 65.84269767277559,
+      "mAP": 32.13203451234049
+    },
+    {
+      "dataset": "LAUTx",
+      "model": "SAT",
+      "arm": "A",
+      "G": 148186,
+      "NIR": 40.55668071596694,
+      "IoU": 66.46477358838635,
+      "mAP": 33.105218152143166
+    },
+    {
+      "dataset": "LAUTx",
+      "model": "SAT",
+      "arm": "AB",
+      "G": 151165,
+      "NIR": 44.10859295441349,
+      "IoU": 66.4889134039175,
+      "mAP": 33.22579194238083
+    }
+  ]
+}
