@@ -1,0 +1,59 @@
+{
+  "scenes": [
+    {
+      "id": "culs__culs_plot_2_annotated",
+      "path": "../../data/FOR-instance/SAT/culs__culs_plot_2_annotated.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    },
+    {
+      "id": "nibio__nibio_plot_17_annotated",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_17_annotated.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    },
+    {
+      "id": "nibio__nibio_plot_18_annotated",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_18_annotated.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    },
+    {
+      "id": "nibio__nibio_plot_1_annotated",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_1_annotated.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    },
+    {
+      "id": "nibio__nibio_plot_22_annotated",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_22_annotated.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    },
+    {
+      "id": "nibio__nibio_plot_23_annotated",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_23_annotated.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    },
+    {
+      "id": "nibio__nibio_plot_5_annotated",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_5_annotated.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    },
+    {
+      "id": "rmit__rmit_test",
+      "path": "../../data/FOR-instance/SAT/rmit__rmit_test.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    },
+    {
+      "id": "scion__scion_plot_31_annotated",
+      "path": "../../data/FOR-instance/SAT/scion__scion_plot_31_annotated.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    },
+    {
+      "id": "scion__scion_plot_61_annotated",
+      "path": "../../data/FOR-instance/SAT/scion__scion_plot_61_annotated.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    },
+    {
+      "id": "tuwien__tuwien_test",
+      "path": "../../data/FOR-instance/SAT/tuwien__tuwien_test.npz",
+      "config": "configs/FOR-instance_SAT.json"
+    }
+  ]
+}

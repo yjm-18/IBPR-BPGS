@@ -1,0 +1,34 @@
+{
+  "scenes": [
+    {
+      "id": "p1",
+      "regions": "../../data/LAUTx/TL/p1/regions.npz",
+      "cache": "../../data/LAUTx/TL/p1/cache.npz"
+    },
+    {
+      "id": "p2",
+      "regions": "../../data/LAUTx/TL/p2/regions.npz",
+      "cache": "../../data/LAUTx/TL/p2/cache.npz"
+    },
+    {
+      "id": "p4",
+      "regions": "../../data/LAUTx/TL/p4/regions.npz",
+      "cache": "../../data/LAUTx/TL/p4/cache.npz"
+    },
+    {
+      "id": "p10",
+      "regions": "../../data/LAUTx/TL/p10/regions.npz",
+      "cache": "../../data/LAUTx/TL/p10/cache.npz"
+    },
+    {
+      "id": "p12",
+      "regions": "../../data/LAUTx/TL/p12/regions.npz",
+      "cache": "../../data/LAUTx/TL/p12/cache.npz"
+    },
+    {
+      "id": "p14",
+      "regions": "../../data/LAUTx/TL/p14/regions.npz",
+      "cache": "../../data/LAUTx/TL/p14/cache.npz"
+    }
+  ]
+}

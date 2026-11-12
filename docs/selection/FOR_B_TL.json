@@ -1,0 +1,185 @@
+{
+  "selected": {
+    "model": "leaf3_power0.5",
+    "threshold": 0.0,
+    "C": 77622,
+    "H": 8078,
+    "G": 69544,
+    "modified_points": 99295
+  },
+  "trials": [
+    {
+      "model": "leaf3_power0.0",
+      "threshold": -1.0,
+      "C": 78626,
+      "H": 9134,
+      "G": 69492,
+      "modified_points": 101652
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 0.0,
+      "C": 77488,
+      "H": 8025,
+      "G": 69463,
+      "modified_points": 99123
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 1.0,
+      "C": 75930,
+      "H": 6756,
+      "G": 69174,
+      "modified_points": 95758
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 2.0,
+      "C": 75272,
+      "H": 6492,
+      "G": 68780,
+      "modified_points": 94645
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 5.0,
+      "C": 73442,
+      "H": 5722,
+      "G": 67720,
+      "modified_points": 91309
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": -1.0,
+      "C": 78624,
+      "H": 9154,
+      "G": 69470,
+      "modified_points": 101736
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 0.0,
+      "C": 77622,
+      "H": 8078,
+      "G": 69544,
+      "modified_points": 99295
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 1.0,
+      "C": 75885,
+      "H": 7008,
+      "G": 68877,
+      "modified_points": 95999
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 2.0,
+      "C": 75142,
+      "H": 6668,
+      "G": 68474,
+      "modified_points": 94678
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 5.0,
+      "C": 73627,
+      "H": 5742,
+      "G": 67885,
+      "modified_points": 91576
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": -1.0,
+      "C": 78626,
+      "H": 9534,
+      "G": 69092,
+      "modified_points": 102217
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.0,
+      "C": 77323,
+      "H": 8483,
+      "G": 68840,
+      "modified_points": 99552
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 1.0,
+      "C": 75737,
+      "H": 7278,
+      "G": 68459,
+      "modified_points": 96179
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 2.0,
+      "C": 74973,
+      "H": 6828,
+      "G": 68145,
+      "modified_points": 94715
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 5.0,
+      "C": 73083,
+      "H": 5961,
+      "G": 67122,
+      "modified_points": 91228
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": -1.0,
+      "C": 78194,
+      "H": 9699,
+      "G": 68495,
+      "modified_points": 101946
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 0.0,
+      "C": 77123,
+      "H": 8537,
+      "G": 68586,
+      "modified_points": 99394
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 1.0,
+      "C": 75497,
+      "H": 7290,
+      "G": 68207,
+      "modified_points": 95993
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 2.0,
+      "C": 74273,
+      "H": 6857,
+      "G": 67416,
+      "modified_points": 94097
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 5.0,
+      "C": 72898,
+      "H": 5988,
+      "G": 66910,
+      "modified_points": 91146
+    }
+  ],
+  "selection": "maximum aggregate validation G, ties fewer changed points",
+  "validation_scenes": [
+    "nibio__nibio_plot_16_annotated",
+    "culs__culs_plot_3_annotated",
+    "scion__scion_plot_35_annotated",
+    "nibio__nibio_plot_9_annotated",
+    "nibio__nibio_plot_13_annotated",
+    "nibio__nibio_plot_8_annotated",
+    "nibio__nibio_plot_2_annotated",
+    "nibio__nibio_plot_19_annotated"
+  ],
+  "test_used": false,
+  "locked_at": "2026-11-06 18:56:21"
+}

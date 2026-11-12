@@ -1,0 +1,34 @@
+{
+  "scenes": [
+    {
+      "id": "p1",
+      "path": "../../data/LAUTx/SAT/p1.npz",
+      "config": "configs/LAUTx_SAT_p1.json"
+    },
+    {
+      "id": "p2",
+      "path": "../../data/LAUTx/SAT/p2.npz",
+      "config": "configs/LAUTx_SAT_p2.json"
+    },
+    {
+      "id": "p4",
+      "path": "../../data/LAUTx/SAT/p4.npz",
+      "config": "configs/LAUTx_SAT_p4.json"
+    },
+    {
+      "id": "p10",
+      "path": "../../data/LAUTx/SAT/p10.npz",
+      "config": "configs/LAUTx_SAT_p10.json"
+    },
+    {
+      "id": "p12",
+      "path": "../../data/LAUTx/SAT/p12.npz",
+      "config": "configs/LAUTx_SAT_p12.json"
+    },
+    {
+      "id": "p14",
+      "path": "../../data/LAUTx/SAT/p14.npz",
+      "config": "configs/LAUTx_SAT_p14.json"
+    }
+  ]
+}

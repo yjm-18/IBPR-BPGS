@@ -1,0 +1,102 @@
+[
+  {
+    "record": "FOR_TL_protocol.json",
+    "origin": "result/forinstance_TL_official_prefilter_class3_voxel01_NONFORMAL_20261106/protocol.json"
+  },
+  {
+    "record": "FOR_TL_parameters.json",
+    "origin": "result/forinstance_TL_official_prefilter_class3_voxel01_NONFORMAL_20261106/selected_parameters_NONFORMAL.json"
+  },
+  {
+    "record": "FOR_SAT_protocol.json",
+    "origin": "result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/protocol.json"
+  },
+  {
+    "record": "FOR_SAT_parameters.json",
+    "origin": "result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/selected_parameters_NONFORMAL.json"
+  },
+  {
+    "record": "Ofental_TL_parameters.json",
+    "origin": "result/ofental_treelearn_PRF_tuning_20261019/stage2/summary.json"
+  },
+  {
+    "record": "Ofental_TL_source.json",
+    "origin": "result/ofental_new13_8_AB_valB_20261106/TL/test/source.json"
+  },
+  {
+    "record": "LAUTx_TL_p1_source.json",
+    "origin": "result/lautx_new13_8_AB_nested_LOPO_20261106/TL/p1/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_TL_p2_source.json",
+    "origin": "result/lautx_new13_8_AB_nested_LOPO_20261106/TL/p2/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_TL_p4_source.json",
+    "origin": "result/lautx_new13_8_AB_nested_LOPO_20261106/TL/p4/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_TL_p10_source.json",
+    "origin": "result/lautx_new13_8_AB_nested_LOPO_20261106/TL/p10/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_TL_p12_source.json",
+    "origin": "result/lautx_new13_8_AB_nested_LOPO_20261106/TL/p12/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_TL_p14_source.json",
+    "origin": "result/lautx_new13_8_AB_nested_LOPO_20261106/TL/p14/baseline_source.json"
+  },
+  {
+    "record": "Ofental_SAT_source.json",
+    "origin": "result/ofental_new13_8_AB_valB_20261106/SAT/test/source.json"
+  },
+  {
+    "record": "LAUTx_SAT_p1_source.json",
+    "origin": "result/lautx_new13_8_native_map40_AB_LOPO_20261107/SAT/p1/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_SAT_p1_parameters.json",
+    "origin": "result/lautx_new13_8_native_map40_tuning_20261107/p1/results.json"
+  },
+  {
+    "record": "LAUTx_SAT_p2_source.json",
+    "origin": "result/lautx_new13_8_native_map40_AB_LOPO_20261107/SAT/p2/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_SAT_p2_parameters.json",
+    "origin": "result/lautx_new13_8_native_map40_tuning_20261107/p2/results.json"
+  },
+  {
+    "record": "LAUTx_SAT_p4_source.json",
+    "origin": "result/lautx_new13_8_native_map40_AB_LOPO_20261107/SAT/p4/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_SAT_p4_parameters.json",
+    "origin": "result/lautx_new13_8_native_map40_tuning_20261107/p4/results.json"
+  },
+  {
+    "record": "LAUTx_SAT_p10_source.json",
+    "origin": "result/lautx_new13_8_native_map40_AB_LOPO_20261107/SAT/p10/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_SAT_p10_parameters.json",
+    "origin": "result/lautx_new13_8_native_map40_tuning_20261107/p10/results.json"
+  },
+  {
+    "record": "LAUTx_SAT_p12_source.json",
+    "origin": "result/lautx_new13_8_native_map40_AB_LOPO_20261107/SAT/p12/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_SAT_p12_parameters.json",
+    "origin": "result/lautx_new13_8_native_map40_tuning_20261107/p12/results.json"
+  },
+  {
+    "record": "LAUTx_SAT_p14_source.json",
+    "origin": "result/lautx_new13_8_native_map40_AB_LOPO_20261107/SAT/p14/baseline_source.json"
+  },
+  {
+    "record": "LAUTx_SAT_p14_parameters.json",
+    "origin": "result/lautx_new13_8_native_map40_tuning_20261107/p14/results.json"
+  }
+]

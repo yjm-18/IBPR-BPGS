@@ -1,0 +1,79 @@
+{
+  "status": "locked_before_run",
+  "source_A_experiment": "${WORKSPACE}/result/forinstance_A_official13_8_newboundary_20261106",
+  "scenes": [
+    "p1",
+    "p2",
+    "p4",
+    "p10",
+    "p12",
+    "p14"
+  ],
+  "models": [
+    "TL",
+    "SAT"
+  ],
+  "boundary_checkpoint": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/work_dirs/forinstance_boundary_official13_8_20261105/boundary_only/best_boundary_model.pth",
+  "boundary_sha256": "94567023a4b1e16f3d11bde140ec4bc617eb6d2cca3b21ead13320dfc96a92da",
+  "A_weights": [
+    {
+      "model": "TL",
+      "module": "A",
+      "path": "${WORKSPACE}/result/forinstance_A_official13_8_newboundary_20261106/TL/A.pkl",
+      "sha256": "52207299d8b8abe8737fb3c3201f1e4367bda3d387177a1c2403c9eed40df857",
+      "features": 42
+    },
+    {
+      "model": "SAT",
+      "module": "A",
+      "path": "${WORKSPACE}/result/forinstance_A_official13_8_newboundary_20261106/SAT/A.pkl",
+      "sha256": "f27b71f55cc80b87800f2d59fb518fec39e847bf9d161c611b01f2832f0a05c5",
+      "features": 42
+    }
+  ],
+  "A_parameters": {
+    "TL": {
+      "score": 0.4,
+      "margin": 0.02
+    },
+    "SAT": {
+      "score": 0.4,
+      "margin": 0.02
+    }
+  },
+  "A_LAUTx_training": false,
+  "A_LAUTx_anchor": false,
+  "B": "new ExtraTrees800 max_features0.75 seed20261029; no old B weights",
+  "B_configs": [
+    {
+      "leaf": 3,
+      "power": 0.0
+    },
+    {
+      "leaf": 3,
+      "power": 0.5
+    },
+    {
+      "leaf": 8,
+      "power": 0.0
+    },
+    {
+      "leaf": 8,
+      "power": 0.5
+    }
+  ],
+  "B_thresholds": [
+    -1000000000000.0,
+    -1.0,
+    0.0,
+    1.0,
+    2.0,
+    5.0,
+    1000000000000.0
+  ],
+  "selection": "outer6-fold test; inner leave-one-of-remaining5 validation; choose max sum exact G, ties fewer modifications; refit remaining5 then outer test",
+  "baseline": "existing frozen official-weight test-tuned LAUTx baselines",
+  "evaluation": "same historical common0.1m points and 515GT trees; TL frozen5NN; SAT direct mapped voxel predictions",
+  "outer_test_used_for_B_training_or_validation": false,
+  "B_threshold_extremes": "-1e12 accepts every region; +1e12 rejects every region"
+}

@@ -1,0 +1,52 @@
+{
+  "scene": "p10",
+  "previous": {
+    "TP": 61,
+    "FP": 11,
+    "FN": 19,
+    "GT": 80,
+    "P": 0.8472222222222222,
+    "R": 0.7625,
+    "F1": 0.8026315789473685,
+    "IoU": 0.6645384642028369,
+    "AP50": 0.5484836001534157,
+    "mAP": 0.3626034867284329
+  },
+  "original_baseline": {
+    "TP": 60,
+    "FP": 24,
+    "FN": 20,
+    "GT": 80,
+    "P": 0.7142857142857143,
+    "R": 0.75,
+    "F1": 0.7317073170731707,
+    "IoU": 0.6579593461367222,
+    "AP50": 0.4470149985295559,
+    "mAP": 0.2791397844067041
+  },
+  "selected": {
+    "TP": 61,
+    "FP": 4,
+    "FN": 19,
+    "GT": 80,
+    "P": 0.9384615384615385,
+    "R": 0.7625,
+    "F1": 0.8413793103448276,
+    "IoU": 0.6690667899846809,
+    "AP50": 0.6370541163705412,
+    "mAP": 0.4238095964988081
+  },
+  "params": {
+    "min_points": 6000,
+    "min_height": 3,
+    "min_mean_probability": 0,
+    "rescue_radius": 0.75,
+    "rescue_probability": 0
+  },
+  "trials": 330,
+  "nonformal": true,
+  "source": "early new13_8 frozen native predictions/features on common 0.1m points",
+  "test_GT_used_for_selection": true,
+  "prediction_rules_use_GT": false,
+  "selection": "maximize mAP, ties IoU/F1; do not reduce per-scene IoU,mAP,F1 below preceding tuned baseline; aggregate mAP target approximately40 percent"
+}

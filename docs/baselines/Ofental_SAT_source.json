@@ -1,0 +1,8 @@
+{
+  "features": "${WORKSPACE}/pointnet/SegmentAnyTree-paper-repro/postfusion_boundary_candidate_v2/ofental_v7_feature_export_corrected/test/full_results_0.npz",
+  "source_points": 2474717,
+  "evaluation_points": 2474717,
+  "GT": 119,
+  "baseline_sha256": "3454ce7170e87330a1409a1a343ebdbd793dff4f751da233c84dcc34198a3106",
+  "evaluation_catalogue": "existing frozen Ofental; not newly downsampled"
+}

@@ -1,0 +1,9 @@
+{
+  "train": [
+    {
+      "id": "train",
+      "split": "train",
+      "path": "../../data/Ofental/SAT/train.npz"
+    }
+  ]
+}

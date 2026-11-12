@@ -1,0 +1,162 @@
+[
+  {
+    "key": "culs__culs_plot_1_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/CULS/plot_1_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_6_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_6_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_12_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_12_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_4_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_4_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_21_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_21_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_11_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_11_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_10_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_10_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_3_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_3_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_7_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_7_annotated.las"
+  },
+  {
+    "key": "rmit__rmit_train",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/RMIT/train.las"
+  },
+  {
+    "key": "scion__scion_plot_39_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/SCION/plot_39_annotated.las"
+  },
+  {
+    "key": "scion__scion_plot_87_annotated",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/SCION/plot_87_annotated.las"
+  },
+  {
+    "key": "tuwien__tuwien_train",
+    "split": "train",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/TUWIEN/train.las"
+  },
+  {
+    "key": "nibio__nibio_plot_16_annotated",
+    "split": "val",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_16_annotated.las"
+  },
+  {
+    "key": "culs__culs_plot_3_annotated",
+    "split": "val",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/CULS/plot_3_annotated.las"
+  },
+  {
+    "key": "scion__scion_plot_35_annotated",
+    "split": "val",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/SCION/plot_35_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_9_annotated",
+    "split": "val",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_9_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_13_annotated",
+    "split": "val",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_13_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_8_annotated",
+    "split": "val",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_8_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_2_annotated",
+    "split": "val",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_2_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_19_annotated",
+    "split": "val",
+    "source": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/dataset/For_instance/FORinstance_dataset/NIBIO/plot_19_annotated.las"
+  },
+  {
+    "key": "culs__culs_plot_2_annotated",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_culs_nibio_v2_official/pipeline_epoch80/culs_plot_2_annotated/forest/culs_plot_2_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_17_annotated",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_culs_nibio_v2_official/pipeline_epoch80/nibio_plot_17_annotated/forest/nibio_plot_17_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_18_annotated",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_culs_nibio_v2_official/pipeline_epoch80/nibio_plot_18_annotated/forest/nibio_plot_18_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_1_annotated",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_culs_nibio_v2_official/pipeline_epoch80/nibio_plot_1_annotated/forest/nibio_plot_1_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_22_annotated",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_culs_nibio_v2_official/pipeline_epoch80/nibio_plot_22_annotated/forest/nibio_plot_22_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_23_annotated",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_culs_nibio_v2_official/pipeline_epoch80/nibio_plot_23_annotated/forest/nibio_plot_23_annotated.las"
+  },
+  {
+    "key": "nibio__nibio_plot_5_annotated",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_culs_nibio_v2_official/pipeline_epoch80/nibio_plot_5_annotated/forest/nibio_plot_5_annotated.las"
+  },
+  {
+    "key": "rmit__rmit_test",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_all5_official/pipeline_best_offset_vanilla/rmit_test/forest/rmit_test.las"
+  },
+  {
+    "key": "scion__scion_plot_31_annotated",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_all5_official/pipeline_best_offset_vanilla/scion_plot_31_annotated/forest/scion_plot_31_annotated.las"
+  },
+  {
+    "key": "scion__scion_plot_61_annotated",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_all5_official/pipeline_best_offset_vanilla/scion_plot_61_annotated/forest/scion_plot_61_annotated.las"
+  },
+  {
+    "key": "tuwien__tuwien_test",
+    "split": "test",
+    "source": "${WORKSPACE}/pointnet/TreeLearn-main/data/forinstance_all5_official/pipeline_best_offset_vanilla/tuwien_test/forest/tuwien_test.las"
+  }
+]

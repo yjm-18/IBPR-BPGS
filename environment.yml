@@ -1,0 +1,7 @@
+name: ibpr-bpgs
+channels: [conda-forge]
+dependencies:
+  - python=3.11.7
+  - pip
+  - pip:
+      - -r requirements.txt

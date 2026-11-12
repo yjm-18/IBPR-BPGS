@@ -1,0 +1,34 @@
+{
+  "scenes": [
+    {
+      "id": "p1",
+      "regions": "../../data/LAUTx/SAT/p1/regions.npz",
+      "cache": "../../data/LAUTx/SAT/p1/cache.npz"
+    },
+    {
+      "id": "p2",
+      "regions": "../../data/LAUTx/SAT/p2/regions.npz",
+      "cache": "../../data/LAUTx/SAT/p2/cache.npz"
+    },
+    {
+      "id": "p4",
+      "regions": "../../data/LAUTx/SAT/p4/regions.npz",
+      "cache": "../../data/LAUTx/SAT/p4/cache.npz"
+    },
+    {
+      "id": "p10",
+      "regions": "../../data/LAUTx/SAT/p10/regions.npz",
+      "cache": "../../data/LAUTx/SAT/p10/cache.npz"
+    },
+    {
+      "id": "p12",
+      "regions": "../../data/LAUTx/SAT/p12/regions.npz",
+      "cache": "../../data/LAUTx/SAT/p12/cache.npz"
+    },
+    {
+      "id": "p14",
+      "regions": "../../data/LAUTx/SAT/p14/regions.npz",
+      "cache": "../../data/LAUTx/SAT/p14/cache.npz"
+    }
+  ]
+}

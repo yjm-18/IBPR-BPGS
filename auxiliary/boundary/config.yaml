@@ -1,0 +1,41 @@
+model:
+  boundary_cfg:
+    threshold: 0.5
+    loss_weight: 1.0
+    width: 32
+    in_channels: 6
+    hard_boundary_threshold: 0.5
+    hard_loss_weight: 1.0
+    soft_distance_weight: 0.0
+    hard_pos_weight: 8.0
+    focal_gamma: 2.0
+    tree_only_loss: true
+    selection_metric: average_precision
+
+data:
+  train:
+    type: ginkgo_new
+    data_root: 'data/boundary'
+    prefix: train
+    suffix: '_merged_inst_nostuff.pth'
+    repeat: 1
+    training: true
+    boundary_label_power: 1.0
+    voxel_cfg: {scale: 10, spatial_shape: [512, 1024], max_npoint: 1200000, min_npoint: 5000}
+  test:
+    type: ginkgo_new
+    data_root: 'data/boundary'
+    prefix: val
+    suffix: '_merged_inst_nostuff.pth'
+    repeat: 1
+    training: false
+    boundary_label_power: 1.0
+    voxel_cfg: {scale: 10, spatial_shape: [512, 1024], max_npoint: 1200000, min_npoint: 5000}
+
+dataloader:
+  train: {batch_size: 1, num_workers: 0}
+  test: {batch_size: 1, num_workers: 0}
+
+optimizer: {type: Adam, lr: 0.001}
+fp16: true
+work_dir: 'outputs/boundary'

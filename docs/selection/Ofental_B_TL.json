@@ -1,0 +1,1027 @@
+{
+  "selected": {
+    "model": "leaf3_power0.0",
+    "threshold": -1000000000000.0,
+    "C": 46834,
+    "H": 20108,
+    "G": 26726,
+    "modified_points": 96425,
+    "NIR": 27.716878402903813,
+    "IoU": 0.474552095447706,
+    "mAP": 0.15660515751278575
+  },
+  "trials": [
+    {
+      "model": "leaf3_power0.0",
+      "threshold": -1000000000000.0,
+      "C": 46834,
+      "H": 20108,
+      "G": 26726,
+      "modified_points": 96425,
+      "NIR": 27.716878402903813,
+      "IoU": 0.474552095447706,
+      "mAP": 0.15660515751278575
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": -62.88714583333324,
+      "C": 46834,
+      "H": 20108,
+      "G": 26726,
+      "modified_points": 96425,
+      "NIR": 27.716878402903813
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": -1.0116708333333333,
+      "C": 42646,
+      "H": 16725,
+      "G": 25921,
+      "modified_points": 87624,
+      "NIR": 29.58207796950607
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": -1.0,
+      "C": 42645,
+      "H": 16724,
+      "G": 25921,
+      "modified_points": 87622,
+      "NIR": 29.58275318983817
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": -0.29933333333333323,
+      "C": 42345,
+      "H": 16516,
+      "G": 25829,
+      "modified_points": 86922,
+      "NIR": 29.71514691332459
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": -0.10214702380952355,
+      "C": 42123,
+      "H": 16407,
+      "G": 25716,
+      "modified_points": 86508,
+      "NIR": 29.726730475794145
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": -0.02205099206349206,
+      "C": 42068,
+      "H": 16375,
+      "G": 25693,
+      "modified_points": 86394,
+      "NIR": 29.739333750028937
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 0.0,
+      "C": 42055,
+      "H": 16355,
+      "G": 25700,
+      "modified_points": 86342,
+      "NIR": 29.765351740751893
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 0.019187500000000003,
+      "C": 42026,
+      "H": 16354,
+      "G": 25672,
+      "modified_points": 86297,
+      "NIR": 29.748426944157966
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 0.05965535714285722,
+      "C": 41938,
+      "H": 16319,
+      "G": 25619,
+      "modified_points": 86161,
+      "NIR": 29.733870312554405
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 0.11475833333333335,
+      "C": 41837,
+      "H": 16184,
+      "G": 25653,
+      "modified_points": 85849,
+      "NIR": 29.881536185628253
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 0.18941785714285705,
+      "C": 41774,
+      "H": 16153,
+      "G": 25621,
+      "modified_points": 85711,
+      "NIR": 29.892312538647314
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 0.2892708333333336,
+      "C": 41665,
+      "H": 16071,
+      "G": 25594,
+      "modified_points": 85425,
+      "NIR": 29.96078431372549
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 0.38695833333333346,
+      "C": 41575,
+      "H": 15995,
+      "G": 25580,
+      "modified_points": 85015,
+      "NIR": 30.088807857436922
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 0.5457541666666668,
+      "C": 41464,
+      "H": 15925,
+      "G": 25539,
+      "modified_points": 84678,
+      "NIR": 30.160136044781407
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 0.8524083333333337,
+      "C": 41260,
+      "H": 15672,
+      "G": 25588,
+      "modified_points": 84004,
+      "NIR": 30.460454264082664
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 1.0,
+      "C": 41116,
+      "H": 15536,
+      "G": 25580,
+      "modified_points": 83673,
+      "NIR": 30.57139101024225
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 1.3766791666666673,
+      "C": 40782,
+      "H": 15417,
+      "G": 25365,
+      "modified_points": 83114,
+      "NIR": 30.518324229371707
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 2.0,
+      "C": 40051,
+      "H": 15034,
+      "G": 25017,
+      "modified_points": 81559,
+      "NIR": 30.673500165524345
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 2.077554166666666,
+      "C": 40004,
+      "H": 15024,
+      "G": 24980,
+      "modified_points": 81473,
+      "NIR": 30.660464202864752
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 2.805166666666669,
+      "C": 39096,
+      "H": 14597,
+      "G": 24499,
+      "modified_points": 79443,
+      "NIR": 30.838462797225684
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 4.049866666666667,
+      "C": 37753,
+      "H": 13701,
+      "G": 24052,
+      "modified_points": 76408,
+      "NIR": 31.478379227306043
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 5.0,
+      "C": 37077,
+      "H": 13365,
+      "G": 23712,
+      "modified_points": 74566,
+      "NIR": 31.800016093125553
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 6.365837499999995,
+      "C": 36531,
+      "H": 13109,
+      "G": 23422,
+      "modified_points": 73437,
+      "NIR": 31.894004384710705
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 10.676316666666677,
+      "C": 34059,
+      "H": 12110,
+      "G": 21949,
+      "modified_points": 68089,
+      "NIR": 32.235750268031545
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 33.38683511904762,
+      "C": 29835,
+      "H": 10636,
+      "G": 19199,
+      "modified_points": 59701,
+      "NIR": 32.158590308370044
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 2172.6942708333318,
+      "C": 1917,
+      "H": 0,
+      "G": 1917,
+      "modified_points": 3858,
+      "NIR": 49.68895800933126
+    },
+    {
+      "model": "leaf3_power0.0",
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0,
+      "NIR": null
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": -1000000000000.0,
+      "C": 46834,
+      "H": 20108,
+      "G": 26726,
+      "modified_points": 96425,
+      "NIR": 27.716878402903813
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": -83.8754816863782,
+      "C": 46834,
+      "H": 20108,
+      "G": 26726,
+      "modified_points": 96425,
+      "NIR": 27.716878402903813
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": -1.7676019293451637,
+      "C": 43258,
+      "H": 17120,
+      "G": 26138,
+      "modified_points": 88615,
+      "NIR": 29.49613496586357
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": -1.0,
+      "C": 42920,
+      "H": 16845,
+      "G": 26075,
+      "modified_points": 87928,
+      "NIR": 29.654944954963153
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": -0.4729830350591053,
+      "C": 42692,
+      "H": 16739,
+      "G": 25953,
+      "modified_points": 87527,
+      "NIR": 29.651421846972934
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": -0.18324887102383297,
+      "C": 42375,
+      "H": 16580,
+      "G": 25795,
+      "modified_points": 86932,
+      "NIR": 29.672617678185247
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": -0.048114245942021204,
+      "C": 42259,
+      "H": 16517,
+      "G": 25742,
+      "modified_points": 86656,
+      "NIR": 29.705963810930577
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 0.0,
+      "C": 42160,
+      "H": 16481,
+      "G": 25679,
+      "modified_points": 86346,
+      "NIR": 29.739652097375675
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 0.0025902952374421994,
+      "C": 42160,
+      "H": 16481,
+      "G": 25679,
+      "modified_points": 86346,
+      "NIR": 29.739652097375675
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 0.03829308163983308,
+      "C": 42130,
+      "H": 16433,
+      "G": 25697,
+      "modified_points": 86248,
+      "NIR": 29.794314071050923
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 0.08997382810509813,
+      "C": 41904,
+      "H": 16363,
+      "G": 25541,
+      "modified_points": 85921,
+      "NIR": 29.726143783242748
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 0.1666059068717292,
+      "C": 41809,
+      "H": 16324,
+      "G": 25485,
+      "modified_points": 85710,
+      "NIR": 29.733986699334967
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 0.2502929314053444,
+      "C": 41739,
+      "H": 16269,
+      "G": 25470,
+      "modified_points": 85469,
+      "NIR": 29.800278463536486
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 0.36672568946462614,
+      "C": 41516,
+      "H": 16173,
+      "G": 25343,
+      "modified_points": 85087,
+      "NIR": 29.784808490133628
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 0.523890846263494,
+      "C": 41266,
+      "H": 16078,
+      "G": 25188,
+      "modified_points": 84622,
+      "NIR": 29.765309257639856
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 0.812368263577813,
+      "C": 40758,
+      "H": 15864,
+      "G": 24894,
+      "modified_points": 83724,
+      "NIR": 29.733409774974916
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 1.0,
+      "C": 40522,
+      "H": 15664,
+      "G": 24858,
+      "modified_points": 83199,
+      "NIR": 29.877762953881657
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 1.2764969401757607,
+      "C": 40170,
+      "H": 15490,
+      "G": 24680,
+      "modified_points": 82473,
+      "NIR": 29.92494513355886
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 1.8932786080361732,
+      "C": 39630,
+      "H": 15215,
+      "G": 24415,
+      "modified_points": 81172,
+      "NIR": 30.07810575075149
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 2.0,
+      "C": 39546,
+      "H": 15167,
+      "G": 24379,
+      "modified_points": 80995,
+      "NIR": 30.099388851163653
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 2.7322565415977063,
+      "C": 38871,
+      "H": 14810,
+      "G": 24061,
+      "modified_points": 79300,
+      "NIR": 30.34174022698613
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 4.113900675470465,
+      "C": 37545,
+      "H": 14244,
+      "G": 23301,
+      "modified_points": 76829,
+      "NIR": 30.328391622954875
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 5.0,
+      "C": 36898,
+      "H": 13591,
+      "G": 23307,
+      "modified_points": 75045,
+      "NIR": 31.05736558065161
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 6.146014325891643,
+      "C": 36368,
+      "H": 13073,
+      "G": 23295,
+      "modified_points": 73415,
+      "NIR": 31.730572771232037
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 10.794908305295063,
+      "C": 34264,
+      "H": 12212,
+      "G": 22052,
+      "modified_points": 68582,
+      "NIR": 32.1542095593596
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 34.40388374423524,
+      "C": 29965,
+      "H": 10651,
+      "G": 19314,
+      "modified_points": 59594,
+      "NIR": 32.40930294996141
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 2190.890301779125,
+      "C": 1917,
+      "H": 0,
+      "G": 1917,
+      "modified_points": 3858,
+      "NIR": 49.68895800933126
+    },
+    {
+      "model": "leaf3_power0.5",
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0,
+      "NIR": null
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": -1000000000000.0,
+      "C": 46834,
+      "H": 20108,
+      "G": 26726,
+      "modified_points": 96425,
+      "NIR": 27.716878402903813
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": -20.871256315542272,
+      "C": 46834,
+      "H": 20108,
+      "G": 26726,
+      "modified_points": 96425,
+      "NIR": 27.716878402903813
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": -1.0,
+      "C": 43900,
+      "H": 17658,
+      "G": 26242,
+      "modified_points": 90179,
+      "NIR": 29.099901307399726
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": -0.4901028846830413,
+      "C": 43664,
+      "H": 17573,
+      "G": 26091,
+      "modified_points": 89742,
+      "NIR": 29.073343584943505
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": -0.14742892979597844,
+      "C": 43405,
+      "H": 17351,
+      "G": 26054,
+      "modified_points": 89048,
+      "NIR": 29.25837750426736
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": -0.032712645028260316,
+      "C": 43338,
+      "H": 17252,
+      "G": 26086,
+      "modified_points": 88844,
+      "NIR": 29.361577596686327
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.0,
+      "C": 43296,
+      "H": 17232,
+      "G": 26064,
+      "modified_points": 88759,
+      "NIR": 29.364909473968837
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.010615189685042629,
+      "C": 43165,
+      "H": 17227,
+      "G": 25938,
+      "modified_points": 88616,
+      "NIR": 29.270109235352532
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.04159930837136719,
+      "C": 43134,
+      "H": 17184,
+      "G": 25950,
+      "modified_points": 88509,
+      "NIR": 29.319052299766124
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.08762093333545551,
+      "C": 43062,
+      "H": 17129,
+      "G": 25933,
+      "modified_points": 88339,
+      "NIR": 29.356229977699545
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.13734901203242916,
+      "C": 42979,
+      "H": 17047,
+      "G": 25932,
+      "modified_points": 88000,
+      "NIR": 29.46818181818182
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.20037456115972968,
+      "C": 42829,
+      "H": 17009,
+      "G": 25820,
+      "modified_points": 87787,
+      "NIR": 29.41209974141957
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.2763153380728748,
+      "C": 42742,
+      "H": 16929,
+      "G": 25813,
+      "modified_points": 87570,
+      "NIR": 29.476989836702067
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.37945560098119135,
+      "C": 42593,
+      "H": 16847,
+      "G": 25746,
+      "modified_points": 87257,
+      "NIR": 29.505942216670295
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.5342564756193239,
+      "C": 42325,
+      "H": 16746,
+      "G": 25579,
+      "modified_points": 86801,
+      "NIR": 29.46855450974067
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 0.9108267972019819,
+      "C": 41866,
+      "H": 16514,
+      "G": 25352,
+      "modified_points": 85789,
+      "NIR": 29.55157421114595
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 1.0,
+      "C": 41828,
+      "H": 16491,
+      "G": 25337,
+      "modified_points": 85707,
+      "NIR": 29.562346132754616
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 1.4072846700126491,
+      "C": 41443,
+      "H": 15995,
+      "G": 25448,
+      "modified_points": 84565,
+      "NIR": 30.09282800212854
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 2.0,
+      "C": 40858,
+      "H": 15674,
+      "G": 25184,
+      "modified_points": 83477,
+      "NIR": 30.16878900775064
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 2.0378161019546774,
+      "C": 40838,
+      "H": 15671,
+      "G": 25167,
+      "modified_points": 83457,
+      "NIR": 30.15564901685898
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 2.8566105114463256,
+      "C": 39989,
+      "H": 15132,
+      "G": 24857,
+      "modified_points": 81548,
+      "NIR": 30.481434247314464
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 4.011913175353415,
+      "C": 38694,
+      "H": 14282,
+      "G": 24412,
+      "modified_points": 78644,
+      "NIR": 31.041147449265043
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 5.0,
+      "C": 37843,
+      "H": 13966,
+      "G": 23877,
+      "modified_points": 76890,
+      "NIR": 31.05345298478346
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 6.13234859395099,
+      "C": 37215,
+      "H": 13397,
+      "G": 23818,
+      "modified_points": 74726,
+      "NIR": 31.87377887214624
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 10.276217476620602,
+      "C": 34575,
+      "H": 12427,
+      "G": 22148,
+      "modified_points": 69297,
+      "NIR": 31.960979551784348
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 32.62056056830491,
+      "C": 29936,
+      "H": 10698,
+      "G": 19238,
+      "modified_points": 59764,
+      "NIR": 32.18994712535975
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 1407.975230316042,
+      "C": 1917,
+      "H": 0,
+      "G": 1917,
+      "modified_points": 3858,
+      "NIR": 49.68895800933126
+    },
+    {
+      "model": "leaf8_power0.0",
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0,
+      "NIR": null
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": -1000000000000.0,
+      "C": 46834,
+      "H": 20108,
+      "G": 26726,
+      "modified_points": 96425,
+      "NIR": 27.716878402903813
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": -20.115820830294044,
+      "C": 46834,
+      "H": 20108,
+      "G": 26726,
+      "modified_points": 96425,
+      "NIR": 27.716878402903813
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": -1.0,
+      "C": 43620,
+      "H": 17798,
+      "G": 25822,
+      "modified_points": 89719,
+      "NIR": 28.78097170053166
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": -0.9349361365417233,
+      "C": 43604,
+      "H": 17790,
+      "G": 25814,
+      "modified_points": 89678,
+      "NIR": 28.785209304400187
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": -0.2886653759739787,
+      "C": 43237,
+      "H": 17415,
+      "G": 25822,
+      "modified_points": 88758,
+      "NIR": 29.092588837062575
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": -0.09148888949265721,
+      "C": 43066,
+      "H": 17217,
+      "G": 25849,
+      "modified_points": 88325,
+      "NIR": 29.26577979054628
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": -0.009412215342661696,
+      "C": 43013,
+      "H": 17181,
+      "G": 25832,
+      "modified_points": 88178,
+      "NIR": 29.295289074372292
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 0.0,
+      "C": 43007,
+      "H": 17184,
+      "G": 25823,
+      "modified_points": 88173,
+      "NIR": 29.28674310730042
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 0.028369229203651102,
+      "C": 42939,
+      "H": 17074,
+      "G": 25865,
+      "modified_points": 87919,
+      "NIR": 29.41912442134237
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 0.0677192469703151,
+      "C": 42888,
+      "H": 17029,
+      "G": 25859,
+      "modified_points": 87788,
+      "NIR": 29.456189912060875
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 0.12144969586915386,
+      "C": 42794,
+      "H": 16956,
+      "G": 25838,
+      "modified_points": 87494,
+      "NIR": 29.531167851509817
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 0.19300243793544436,
+      "C": 42711,
+      "H": 16903,
+      "G": 25808,
+      "modified_points": 87339,
+      "NIR": 29.549227721865375
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 0.2704458628673106,
+      "C": 42511,
+      "H": 16822,
+      "G": 25689,
+      "modified_points": 86988,
+      "NIR": 29.531659539246792
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 0.3690971209341763,
+      "C": 42372,
+      "H": 16673,
+      "G": 25699,
+      "modified_points": 86608,
+      "NIR": 29.67277849621282
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 0.526150620175025,
+      "C": 42160,
+      "H": 16553,
+      "G": 25607,
+      "modified_points": 86192,
+      "NIR": 29.709253759049563
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 0.8671963848200831,
+      "C": 41747,
+      "H": 16214,
+      "G": 25533,
+      "modified_points": 85263,
+      "NIR": 29.946166566975123
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 1.0,
+      "C": 41667,
+      "H": 16067,
+      "G": 25600,
+      "modified_points": 84948,
+      "NIR": 30.136083250929982
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 1.4280811443329282,
+      "C": 41257,
+      "H": 15901,
+      "G": 25356,
+      "modified_points": 84169,
+      "NIR": 30.125105442621393
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 2.0,
+      "C": 40285,
+      "H": 15601,
+      "G": 24684,
+      "modified_points": 82555,
+      "NIR": 29.90006662225183
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 2.0056251557306797,
+      "C": 40283,
+      "H": 15601,
+      "G": 24682,
+      "modified_points": 82553,
+      "NIR": 29.898368320957445
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 2.7956834744928716,
+      "C": 39503,
+      "H": 15059,
+      "G": 24444,
+      "modified_points": 80833,
+      "NIR": 30.24012470154516
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 4.030448770105416,
+      "C": 38062,
+      "H": 14551,
+      "G": 23511,
+      "modified_points": 77732,
+      "NIR": 30.246230638604438
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 5.0,
+      "C": 37428,
+      "H": 13935,
+      "G": 23493,
+      "modified_points": 75939,
+      "NIR": 30.936672855844822
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 6.011267281530875,
+      "C": 36644,
+      "H": 13545,
+      "G": 23099,
+      "modified_points": 74280,
+      "NIR": 31.097199784598814
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 10.52878437065773,
+      "C": 33881,
+      "H": 12162,
+      "G": 21719,
+      "modified_points": 68509,
+      "NIR": 31.70240406369966
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 34.25183697327944,
+      "C": 29927,
+      "H": 10698,
+      "G": 19229,
+      "modified_points": 59697,
+      "NIR": 32.210998877665546
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 1503.3426721412618,
+      "C": 1917,
+      "H": 0,
+      "G": 1917,
+      "modified_points": 3858,
+      "NIR": 49.68895800933126
+    },
+    {
+      "model": "leaf8_power0.5",
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0,
+      "NIR": null
+    }
+  ],
+  "test_used": false,
+  "train_regions": 4780
+}

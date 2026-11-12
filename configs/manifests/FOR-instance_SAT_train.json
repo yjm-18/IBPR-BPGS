@@ -1,0 +1,69 @@
+{
+  "train": [
+    {
+      "id": "culs__culs_plot_1_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/culs__culs_plot_1_annotated.npz"
+    },
+    {
+      "id": "nibio__nibio_plot_6_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_6_annotated.npz"
+    },
+    {
+      "id": "nibio__nibio_plot_12_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_12_annotated.npz"
+    },
+    {
+      "id": "nibio__nibio_plot_4_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_4_annotated.npz"
+    },
+    {
+      "id": "nibio__nibio_plot_21_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_21_annotated.npz"
+    },
+    {
+      "id": "nibio__nibio_plot_11_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_11_annotated.npz"
+    },
+    {
+      "id": "nibio__nibio_plot_10_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_10_annotated.npz"
+    },
+    {
+      "id": "nibio__nibio_plot_3_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_3_annotated.npz"
+    },
+    {
+      "id": "nibio__nibio_plot_7_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/nibio__nibio_plot_7_annotated.npz"
+    },
+    {
+      "id": "rmit__rmit_train",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/rmit__rmit_train.npz"
+    },
+    {
+      "id": "scion__scion_plot_39_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/scion__scion_plot_39_annotated.npz"
+    },
+    {
+      "id": "scion__scion_plot_87_annotated",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/scion__scion_plot_87_annotated.npz"
+    },
+    {
+      "id": "tuwien__tuwien_train",
+      "split": "train",
+      "path": "../../data/FOR-instance/SAT/tuwien__tuwien_train.npz"
+    }
+  ]
+}

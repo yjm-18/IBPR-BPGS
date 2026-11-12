@@ -1,0 +1,18 @@
+{
+  "FOR-instance/TL": "configs/FOR-instance_TL.json",
+  "FOR-instance/SAT": "configs/FOR-instance_SAT.json",
+  "Ofental/TL": "configs/Ofental_TL.json",
+  "Ofental/SAT": "configs/Ofental_SAT.json",
+  "LAUTx/TL/p1": "configs/LAUTx_TL_p1.json",
+  "LAUTx/TL/p2": "configs/LAUTx_TL_p2.json",
+  "LAUTx/TL/p4": "configs/LAUTx_TL_p4.json",
+  "LAUTx/TL/p10": "configs/LAUTx_TL_p10.json",
+  "LAUTx/TL/p12": "configs/LAUTx_TL_p12.json",
+  "LAUTx/TL/p14": "configs/LAUTx_TL_p14.json",
+  "LAUTx/SAT/p1": "configs/LAUTx_SAT_p1.json",
+  "LAUTx/SAT/p2": "configs/LAUTx_SAT_p2.json",
+  "LAUTx/SAT/p4": "configs/LAUTx_SAT_p4.json",
+  "LAUTx/SAT/p10": "configs/LAUTx_SAT_p10.json",
+  "LAUTx/SAT/p12": "configs/LAUTx_SAT_p12.json",
+  "LAUTx/SAT/p14": "configs/LAUTx_SAT_p14.json"
+}

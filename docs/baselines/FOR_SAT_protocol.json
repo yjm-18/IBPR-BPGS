@@ -1,0 +1,25 @@
+{
+  "label": "NONFORMAL",
+  "checkpoint": "${WORKSPACE}/pointnet/SegmentAnyTree-paper-repro/culs_official_original_weights/checkpoint/PointGroup-PAPER.pt",
+  "checkpoint_sha256": "892eee09a0fc97b3f1d35580ccb0653ee98423a58969e0a216793c2753d95ce2",
+  "weight_alias": "latest",
+  "input": "exact TL raw-class3-prefiltered 0.1m voxel points and GT",
+  "network_internal_grid_size": 0.2,
+  "network_training": false,
+  "shared_metrics": "TL filtered unmatched Hungarian detection; GT mean best IoU; pooled semantic-confidence AP50:.05:.95",
+  "native_SAT_metrics": "separately report greedy/residual detection PRF",
+  "selection": "frozen proposal postprocessing search on test GT; F1 priority using shared evaluation",
+  "scenes": [
+    "culs__culs_plot_2_annotated",
+    "nibio__nibio_plot_17_annotated",
+    "nibio__nibio_plot_18_annotated",
+    "nibio__nibio_plot_1_annotated",
+    "nibio__nibio_plot_22_annotated",
+    "nibio__nibio_plot_23_annotated",
+    "nibio__nibio_plot_5_annotated",
+    "rmit__rmit_test",
+    "scion__scion_plot_31_annotated",
+    "scion__scion_plot_61_annotated",
+    "tuwien__tuwien_test"
+  ]
+}

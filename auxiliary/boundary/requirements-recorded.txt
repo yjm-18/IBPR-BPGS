@@ -1,0 +1,9 @@
+# Recorded auxiliary environment; PyTorch wheel uses CUDA11.8.
+# SoftGroup voxelization CUDA extension must be built separately.
+torch==2.5.1
+numpy==2.2.4
+scipy==1.15.2
+laspy==2.6.1
+PyYAML==6.0.2
+spconv-cu118==2.3.8
+cumm-cu118==0.7.11

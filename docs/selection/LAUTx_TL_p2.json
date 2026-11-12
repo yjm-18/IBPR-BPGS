@@ -1,0 +1,340 @@
+{
+  "outer_test": "p2",
+  "validation_scenes": [
+    "p1",
+    "p4",
+    "p10",
+    "p12",
+    "p14"
+  ],
+  "final_B_training_scenes": [
+    "p1",
+    "p4",
+    "p10",
+    "p12",
+    "p14"
+  ],
+  "selected": {
+    "config": {
+      "leaf": 3,
+      "power": 0.5
+    },
+    "threshold": 0.0,
+    "C": 26117,
+    "H": 6515,
+    "G": 19602,
+    "modified_points": 53732
+  },
+  "trials": [
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": -1000000000000.0,
+      "C": 33329,
+      "H": 17878,
+      "G": 15451,
+      "modified_points": 75944
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": -1.0,
+      "C": 26920,
+      "H": 8144,
+      "G": 18776,
+      "modified_points": 56112
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": 0.0,
+      "C": 25529,
+      "H": 6671,
+      "G": 18858,
+      "modified_points": 52696
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": 1.0,
+      "C": 23925,
+      "H": 5519,
+      "G": 18406,
+      "modified_points": 49042
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": 2.0,
+      "C": 22960,
+      "H": 4996,
+      "G": 17964,
+      "modified_points": 46996
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": 5.0,
+      "C": 20782,
+      "H": 4056,
+      "G": 16726,
+      "modified_points": 42349
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": -1000000000000.0,
+      "C": 33329,
+      "H": 17878,
+      "G": 15451,
+      "modified_points": 75944
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": -1.0,
+      "C": 27375,
+      "H": 7872,
+      "G": 19503,
+      "modified_points": 57009
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": 0.0,
+      "C": 26117,
+      "H": 6515,
+      "G": 19602,
+      "modified_points": 53732
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": 1.0,
+      "C": 24477,
+      "H": 5383,
+      "G": 19094,
+      "modified_points": 50171
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": 2.0,
+      "C": 23598,
+      "H": 4854,
+      "G": 18744,
+      "modified_points": 48068
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": 5.0,
+      "C": 21479,
+      "H": 4172,
+      "G": 17307,
+      "modified_points": 43853
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": -1000000000000.0,
+      "C": 33329,
+      "H": 17878,
+      "G": 15451,
+      "modified_points": 75944
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": -1.0,
+      "C": 27459,
+      "H": 8360,
+      "G": 19099,
+      "modified_points": 57661
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": 0.0,
+      "C": 25841,
+      "H": 6602,
+      "G": 19239,
+      "modified_points": 53600
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": 1.0,
+      "C": 24320,
+      "H": 5687,
+      "G": 18633,
+      "modified_points": 50293
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": 2.0,
+      "C": 23393,
+      "H": 5186,
+      "G": 18207,
+      "modified_points": 48232
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": 5.0,
+      "C": 21217,
+      "H": 4234,
+      "G": 16983,
+      "modified_points": 43604
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": -1000000000000.0,
+      "C": 33329,
+      "H": 17878,
+      "G": 15451,
+      "modified_points": 75944
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": -1.0,
+      "C": 27121,
+      "H": 8082,
+      "G": 19039,
+      "modified_points": 57072
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": 0.0,
+      "C": 25736,
+      "H": 6450,
+      "G": 19286,
+      "modified_points": 53308
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": 1.0,
+      "C": 24390,
+      "H": 5523,
+      "G": 18867,
+      "modified_points": 50337
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": 2.0,
+      "C": 23550,
+      "H": 5140,
+      "G": 18410,
+      "modified_points": 48586
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": 5.0,
+      "C": 21513,
+      "H": 4308,
+      "G": 17205,
+      "modified_points": 44226
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0
+    }
+  ],
+  "outer_test_used_for_training_or_selection": false,
+  "locked_at": "2026-11-06 19:36:17"
+}

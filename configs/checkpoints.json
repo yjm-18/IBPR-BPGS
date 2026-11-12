@@ -1,0 +1,128 @@
+[
+  {
+    "path": "FOR-instance/TL/A.pkl",
+    "bytes": 1316211,
+    "sha256": "d6b4731eeebbc92be60c0307602f811c3f09e670dd7ea7fcd96f7431afd370c5",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/FOR-instance/TL/A.pkl"
+  },
+  {
+    "path": "FOR-instance/TL/B.pkl",
+    "bytes": 278436996,
+    "sha256": "919021b158de45b82d23a7262b3bc9a882495c8146d1fbe3013671b5502ed215",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/FOR-instance/TL/B.pkl"
+  },
+  {
+    "path": "FOR-instance/SAT/A.pkl",
+    "bytes": 1316216,
+    "sha256": "6e40ae6ccec8ad311ed3759272a8b52c50e72f83cc011bf99a58359f6c2873d6",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/FOR-instance/SAT/A.pkl"
+  },
+  {
+    "path": "FOR-instance/SAT/B.pkl",
+    "bytes": 115050276,
+    "sha256": "566287bdc6d4567cc8da114c3fc165201016e8c9591b0789fad6ed6c7ade00f8",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/FOR-instance/SAT/B.pkl"
+  },
+  {
+    "path": "Ofental/TL/A.pkl",
+    "bytes": 687525,
+    "sha256": "7d96d5f151bab74b6d90315d3fd456dbe27acbf1bea53ff316d87139110496de",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/Ofental/TL/A.pkl"
+  },
+  {
+    "path": "Ofental/TL/B.pkl",
+    "bytes": 137506356,
+    "sha256": "acb73344d968bb8cf2c2e934b32c8d9ce60fcf9458beaaa4add78bda907a8e53",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/Ofental/TL/B.pkl"
+  },
+  {
+    "path": "Ofental/SAT/A.pkl",
+    "bytes": 687021,
+    "sha256": "2e254d75f204ff21f2d4e4de92c7d1a451912e7ed1d6c99cdc340ab8154d2e7d",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/Ofental/SAT/A.pkl"
+  },
+  {
+    "path": "Ofental/SAT/B.pkl",
+    "bytes": 182225412,
+    "sha256": "dac8a434c9329dd5d44939430c4ae98b6f0248452cacc84bfe509b660f170d88",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/Ofental/SAT/B.pkl"
+  },
+  {
+    "path": "LAUTx/TL/p1/B.pkl",
+    "bytes": 151367796,
+    "sha256": "d72e49530519c61ac32c848f30b46171d10a14a1f1442c3a73b28b9753b87a99",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/TL/p1/B.pkl"
+  },
+  {
+    "path": "LAUTx/TL/p2/B.pkl",
+    "bytes": 168903540,
+    "sha256": "3b4bd820dd775bbfad81b4416e487e75cd3cdaaad5ea49d679a2f30f7a258e41",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/TL/p2/B.pkl"
+  },
+  {
+    "path": "LAUTx/TL/p4/B.pkl",
+    "bytes": 69155460,
+    "sha256": "f7bde4f026a8d0ee7eeb00647c655a68843b9bcebbd81d1b275390e49303ec92",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/TL/p4/B.pkl"
+  },
+  {
+    "path": "LAUTx/TL/p10/B.pkl",
+    "bytes": 188488260,
+    "sha256": "a69d0f65f557593f3055ca826003e8ed9baa409ccac0610165eaae1db95d935a",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/TL/p10/B.pkl"
+  },
+  {
+    "path": "LAUTx/TL/p12/B.pkl",
+    "bytes": 191740932,
+    "sha256": "80ceba082c69bc21f4b446ec62ae194d841eb6f7537c528605779d1be06ae381",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/TL/p12/B.pkl"
+  },
+  {
+    "path": "LAUTx/TL/p14/B.pkl",
+    "bytes": 68598756,
+    "sha256": "7019cf3b974eebbaa9358b559a3e369ddc01fcf093f19bcbebc48bc78a6f0caf",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/TL/p14/B.pkl"
+  },
+  {
+    "path": "LAUTx/SAT/p1/B.pkl",
+    "bytes": 107751924,
+    "sha256": "08746ac1d28b4fd065ba730a097bf9e6055e0b9c76da4a979e40133c7061d3b5",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/SAT/p1/B.pkl"
+  },
+  {
+    "path": "LAUTx/SAT/p2/B.pkl",
+    "bytes": 110253060,
+    "sha256": "839df2c200ed3c8640263fe28a569d29680fc63e96c9523a6c4645c26249a0f4",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/SAT/p2/B.pkl"
+  },
+  {
+    "path": "LAUTx/SAT/p4/B.pkl",
+    "bytes": 113271300,
+    "sha256": "77fd83de430eceeb505b29e1d52302a47bb81dee7433f253ef06fb8559f207c1",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/SAT/p4/B.pkl"
+  },
+  {
+    "path": "LAUTx/SAT/p10/B.pkl",
+    "bytes": 124281828,
+    "sha256": "8d97da1572327310b3202e840392f5a001e6ca3bc0694a924025e2136d4b7c58",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/SAT/p10/B.pkl"
+  },
+  {
+    "path": "LAUTx/SAT/p12/B.pkl",
+    "bytes": 118793268,
+    "sha256": "0ed0d37a723eb8647f98ddb6a5f73e4e892a6da326bbf9c77e6ed5dfc1ab8e74",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/SAT/p12/B.pkl"
+  },
+  {
+    "path": "LAUTx/SAT/p14/B.pkl",
+    "bytes": 107127396,
+    "sha256": "f8ff4517c4de29a5dc38af144a7de266a23f68970a86d1b25103da8fd1080a1e",
+    "origin": "result/all_candidates_IBPR39_replay_20261107/LAUTx/SAT/p14/B.pkl"
+  },
+  {
+    "path": "boundary/best_boundary_model.pth",
+    "bytes": 14103110,
+    "sha256": "94567023a4b1e16f3d11bde140ec4bc617eb6d2cca3b21ead13320dfc96a92da",
+    "origin": "pointnet/SoftGroup-main/boundary_3/work_dirs/forinstance_boundary_official13_8_20261105/boundary_only/best_boundary_model.pth"
+  }
+]

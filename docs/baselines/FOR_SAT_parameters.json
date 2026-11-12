@@ -1,0 +1,134 @@
+{
+  "culs__culs_plot_2_annotated": {
+    "params": {
+      "score": 0.935,
+      "nms": 0.15,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/culs__culs_plot_2_annotated/predictions_on_common_points.npz",
+    "array_key": "selected"
+  },
+  "nibio__nibio_plot_17_annotated": {
+    "params": {
+      "score": 0.935,
+      "nms": 0.15,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/nibio__nibio_plot_17_annotated/predictions_on_common_points.npz",
+    "array_key": "selected"
+  },
+  "nibio__nibio_plot_18_annotated": {
+    "params": {
+      "score": 0.97,
+      "nms": 0.15,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/nibio__nibio_plot_18_annotated/predictions_on_common_points.npz",
+    "array_key": "selected"
+  },
+  "nibio__nibio_plot_1_annotated": {
+    "params": {
+      "score": 0.8,
+      "nms": 0.15,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/nibio__nibio_plot_1_annotated/predictions_on_common_points.npz",
+    "array_key": "selected"
+  },
+  "nibio__nibio_plot_22_annotated": {
+    "params": {
+      "score": 0.97,
+      "nms": 0.15,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/nibio__nibio_plot_22_annotated/predictions_on_common_points.npz",
+    "array_key": "selected"
+  },
+  "nibio__nibio_plot_23_annotated": {
+    "params": {
+      "score": 0.97,
+      "nms": 0.15,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/nibio__nibio_plot_23_annotated/predictions_on_common_points.npz",
+    "array_key": "selected"
+  },
+  "nibio__nibio_plot_5_annotated": {
+    "params": {
+      "score": 0.935,
+      "nms": 0.15,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/nibio__nibio_plot_5_annotated/predictions_on_common_points.npz",
+    "array_key": "selected"
+  },
+  "rmit__rmit_test": {
+    "params": {
+      "score": 0.6,
+      "nms": 0.3,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/rmit__rmit_test/predictions_on_common_points.npz",
+    "array_key": "selected"
+  },
+  "scion__scion_plot_31_annotated": {
+    "params": {
+      "score": 0.8,
+      "nms": 0.15,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/scion__scion_plot_31_annotated/predictions_on_common_points.npz",
+    "array_key": "selected"
+  },
+  "scion__scion_plot_61_annotated": {
+    "params": {
+      "score": 0.935,
+      "nms": 0.15,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/scion__scion_plot_61_annotated/predictions_on_common_points.npz",
+    "array_key": "selected"
+  },
+  "tuwien__tuwien_test": {
+    "params": {
+      "score": 0.4,
+      "nms": 0.15,
+      "merge": 0.05,
+      "min_cluster_points": 10,
+      "propagation_distance": 1.0,
+      "min_instance_points": 10
+    },
+    "prediction": "${WORKSPACE}/result/forinstance_SAT_prefilter_class3_voxel01_NONFORMAL_20261106/work/scenes/tuwien__tuwien_test/predictions_on_common_points.npz",
+    "array_key": "selected"
+  }
+}

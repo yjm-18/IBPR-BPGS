@@ -1,0 +1,66 @@
+{
+  "dataset": "LAUTx",
+  "model": "TL",
+  "scene": "p1",
+  "A": {
+    "path": "FOR-instance/TL/A.pkl",
+    "parameters": {
+      "categorical_features": "warn",
+      "class_weight": null,
+      "early_stopping": false,
+      "interaction_cst": null,
+      "l2_regularization": 15,
+      "learning_rate": 0.04,
+      "loss": "log_loss",
+      "max_bins": 255,
+      "max_depth": null,
+      "max_features": 1.0,
+      "max_iter": 350,
+      "max_leaf_nodes": 31,
+      "min_samples_leaf": 100,
+      "monotonic_cst": null,
+      "n_iter_no_change": 10,
+      "random_state": 20261029,
+      "scoring": "loss",
+      "tol": 1e-07,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "features": 39,
+    "score": 0.4,
+    "margin": 0.02
+  },
+  "B": {
+    "path": "LAUTx/TL/p1/B.pkl",
+    "parameters": {
+      "bootstrap": false,
+      "ccp_alpha": 0.0,
+      "criterion": "squared_error",
+      "max_depth": null,
+      "max_features": 0.75,
+      "max_leaf_nodes": null,
+      "max_samples": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "n_estimators": 800,
+      "n_jobs": 4,
+      "oob_score": false,
+      "random_state": 20261029,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "features": 38,
+    "power": 0.0,
+    "threshold": 0.0
+  },
+  "seed": {
+    "score": 0.5,
+    "margin": 0.1
+  },
+  "region_voxel_m": 0.25,
+  "evaluation_voxel_m": 0.1
+}

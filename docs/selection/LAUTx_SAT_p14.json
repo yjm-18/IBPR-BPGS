@@ -1,0 +1,340 @@
+{
+  "outer_test": "p14",
+  "validation_scenes": [
+    "p1",
+    "p2",
+    "p4",
+    "p10",
+    "p12"
+  ],
+  "final_B_training_scenes": [
+    "p1",
+    "p2",
+    "p4",
+    "p10",
+    "p12"
+  ],
+  "selected": {
+    "config": {
+      "leaf": 8,
+      "power": 0.0
+    },
+    "threshold": 0.0,
+    "C": 169844,
+    "H": 55309,
+    "G": 114535,
+    "modified_points": 279207
+  },
+  "trials": [
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": -1000000000000.0,
+      "C": 177712,
+      "H": 64291,
+      "G": 113421,
+      "modified_points": 301282
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": -1.0,
+      "C": 162243,
+      "H": 54568,
+      "G": 107675,
+      "modified_points": 268548
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": 0.0,
+      "C": 159525,
+      "H": 51279,
+      "G": 108246,
+      "modified_points": 261282
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": 1.0,
+      "C": 155317,
+      "H": 48150,
+      "G": 107167,
+      "modified_points": 251895
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": 2.0,
+      "C": 151863,
+      "H": 45997,
+      "G": 105866,
+      "modified_points": 244647
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": 5.0,
+      "C": 143116,
+      "H": 41276,
+      "G": 101840,
+      "modified_points": 227915
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.0
+      },
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": -1000000000000.0,
+      "C": 177712,
+      "H": 64291,
+      "G": 113421,
+      "modified_points": 301282
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": -1.0,
+      "C": 162555,
+      "H": 53911,
+      "G": 108644,
+      "modified_points": 267499
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": 0.0,
+      "C": 159449,
+      "H": 50873,
+      "G": 108576,
+      "modified_points": 259178
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": 1.0,
+      "C": 154695,
+      "H": 47622,
+      "G": 107073,
+      "modified_points": 249201
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": 2.0,
+      "C": 151599,
+      "H": 45683,
+      "G": 105916,
+      "modified_points": 242658
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": 5.0,
+      "C": 142241,
+      "H": 39881,
+      "G": 102360,
+      "modified_points": 224375
+    },
+    {
+      "config": {
+        "leaf": 3,
+        "power": 0.5
+      },
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": -1000000000000.0,
+      "C": 177712,
+      "H": 64291,
+      "G": 113421,
+      "modified_points": 301282
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": -1.0,
+      "C": 172751,
+      "H": 58540,
+      "G": 114211,
+      "modified_points": 287061
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": 0.0,
+      "C": 169844,
+      "H": 55309,
+      "G": 114535,
+      "modified_points": 279207
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": 1.0,
+      "C": 165302,
+      "H": 52173,
+      "G": 113129,
+      "modified_points": 269526
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": 2.0,
+      "C": 161943,
+      "H": 49973,
+      "G": 111970,
+      "modified_points": 262476
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": 5.0,
+      "C": 152993,
+      "H": 44470,
+      "G": 108523,
+      "modified_points": 244371
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.0
+      },
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": -1000000000000.0,
+      "C": 177712,
+      "H": 64291,
+      "G": 113421,
+      "modified_points": 301282
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": -1.0,
+      "C": 163662,
+      "H": 56210,
+      "G": 107452,
+      "modified_points": 273327
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": 0.0,
+      "C": 161113,
+      "H": 52695,
+      "G": 108418,
+      "modified_points": 265041
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": 1.0,
+      "C": 156748,
+      "H": 49729,
+      "G": 107019,
+      "modified_points": 255842
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": 2.0,
+      "C": 153354,
+      "H": 47599,
+      "G": 105755,
+      "modified_points": 248849
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": 5.0,
+      "C": 144198,
+      "H": 42455,
+      "G": 101743,
+      "modified_points": 231513
+    },
+    {
+      "config": {
+        "leaf": 8,
+        "power": 0.5
+      },
+      "threshold": 1000000000000.0,
+      "C": 0,
+      "H": 0,
+      "G": 0,
+      "modified_points": 0
+    }
+  ],
+  "outer_test_used_for_training_or_selection": false,
+  "locked_at": "2026-11-07 19:22:39"
+}

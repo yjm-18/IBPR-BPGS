@@ -1,0 +1,9 @@
+{
+  "train": [
+    {
+      "id": "train",
+      "split": "train",
+      "path": "../../data/Ofental/TL/train.npz"
+    }
+  ]
+}

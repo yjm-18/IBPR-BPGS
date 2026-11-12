@@ -1,0 +1,5 @@
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.1
+numba==0.60.0
+threadpoolctl==3.5.0

@@ -1,0 +1,9 @@
+{
+  "scenes": [
+    {
+      "id": "test",
+      "path": "../../data/Ofental/SAT/test.npz",
+      "config": "configs/Ofental_SAT.json"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "IBPR_models": 26,
+  "test_scene_model_pairs": 36,
+  "summary_rows": 18,
+  "all_four_metric_deltas_zero": false,
+  "final_B_models_retrained": 16,
+  "validation_selection_fixed": true,
+  "changed_summary_rows": [
+    {
+      "dataset": "FOR-instance",
+      "model": "SAT",
+      "arm": "AB",
+      "deltas": {
+        "G": -58,
+        "NIR": 0.010312234739600967,
+        "IoU": -9.805925219552591e-05,
+        "mAP": -0.051577666139301925
+      }
+    }
+  ],
+  "original_candidate_registry_replaced": false
+}

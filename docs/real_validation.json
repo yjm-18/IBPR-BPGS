@@ -1,0 +1,68 @@
+[
+  {
+    "dataset": "LAUTx",
+    "model": "TL",
+    "scene": "p1",
+    "score_points_checked": 4096,
+    "regions": 2161,
+    "all_three_source_and_evaluation_labels_exact": true,
+    "metrics_exact": true,
+    "marginal_targets_exact": true,
+    "seconds": 16.32927417755127
+  },
+  {
+    "dataset": "LAUTx",
+    "model": "SAT",
+    "scene": "p1",
+    "score_points_checked": 4096,
+    "regions": 2599,
+    "all_three_source_and_evaluation_labels_exact": true,
+    "metrics_exact": true,
+    "marginal_targets_exact": true,
+    "seconds": 7.602985620498657
+  },
+  {
+    "dataset": "Ofental",
+    "model": "TL",
+    "scene": "test",
+    "score_points_checked": 4096,
+    "regions": 2613,
+    "all_three_source_and_evaluation_labels_exact": true,
+    "metrics_exact": true,
+    "marginal_targets_exact": null,
+    "seconds": 6.47149133682251
+  },
+  {
+    "dataset": "Ofental",
+    "model": "SAT",
+    "scene": "test",
+    "score_points_checked": 4096,
+    "regions": 2320,
+    "all_three_source_and_evaluation_labels_exact": true,
+    "metrics_exact": true,
+    "marginal_targets_exact": null,
+    "seconds": 3.0552566051483154
+  },
+  {
+    "dataset": "FOR-instance",
+    "model": "TL",
+    "scene": "culs__culs_plot_2_annotated",
+    "score_points_checked": 1426,
+    "regions": 28,
+    "all_three_source_and_evaluation_labels_exact": true,
+    "metrics_exact": true,
+    "marginal_targets_exact": null,
+    "seconds": 3.10939884185791
+  },
+  {
+    "dataset": "FOR-instance",
+    "model": "SAT",
+    "scene": "culs__culs_plot_2_annotated",
+    "score_points_checked": 3286,
+    "regions": 53,
+    "all_three_source_and_evaluation_labels_exact": true,
+    "metrics_exact": true,
+    "marginal_targets_exact": null,
+    "seconds": 1.1626636981964111
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "scenes": [
+    {
+      "id": "test",
+      "path": "../../data/Ofental/TL/test.npz",
+      "config": "configs/Ofental_TL.json"
+    }
+  ]
+}
