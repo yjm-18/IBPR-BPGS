@@ -1,4 +1,4 @@
-"""Frozen geometry-only predictor; identical core/halo policy to the candidate run."""
+"""Frozen geometry-only predictor; identical core/halo policy to the reported experiments."""
 import argparse
 import numpy as np
 import torch

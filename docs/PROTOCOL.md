@@ -1,6 +1,6 @@
-# Candidate Experiment Protocol
+# Experiment Protocol
 
-This package contains the current candidate method with 39-dimensional IBPR and
+This package contains the released method with 39-dimensional IBPR and
 38-dimensional BPGS. TL and SAT use separate scorers. Four final A models and sixteen
 final B models are distributed in the unchanged checkpoint archive.
 

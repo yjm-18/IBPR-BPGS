@@ -21,7 +21,7 @@ point order; it is not spatially balanced or randomly sampled.
 
 The checkpoint-selection metric is `average_precision`; the selected checkpoint is
 epoch 97 of the 100-epoch training run. Labels are binary with a configured hard-label
-threshold of 0.5. They are not expanded soft labels in this candidate configuration.
+threshold of 0.5. They are not expanded soft labels in this configuration.
 
 ## Other counters are separate
 

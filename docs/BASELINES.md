@@ -4,7 +4,7 @@
 
 The two datasets use the corresponding official pretrained checkpoint below.
 TL and SAT are evaluated independently. The numbers are our reproduced baseline
-measurements under the candidate experiment settings, not values copied from the
+measurements under the reported experiment settings, not values copied from the
 original model papers. Obtaining a checkpoint alone does not reproduce the complete
 input preparation, point alignment and evaluation pipeline.
 

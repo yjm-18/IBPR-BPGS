@@ -17,7 +17,7 @@ python auxiliary/boundary/train_boundary_only.py --config auxiliary/boundary/con
 
 Repeat using the split list in `docs/protocols/forinstance_manifest.json`; validation
 files go under `data/boundary/val`. Configuration key `data.test` denotes the validation
-loader, not the held-out experiment test set. The candidate uses fixed domain-specific K values.
+loader, not the held-out experiment test set. The released predictor uses fixed domain-specific K values.
 Checkpoint selection uses sampled validation AP; see [the exact procedure](../../docs/BOUNDARY_VALIDATION.md).
 
 Use the distributed frozen predictor to generate probabilities on common evaluation points:

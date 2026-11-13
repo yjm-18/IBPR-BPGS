@@ -1,3 +1,3 @@
-"""IBPR (39D) and BPGS (38D), candidate release 2026-11-09."""
+"""IBPR (39D) and BPGS (38D), release 0.1.0."""
 
-__version__ = "0.1.0rc1"
+__version__ = "0.1.0"

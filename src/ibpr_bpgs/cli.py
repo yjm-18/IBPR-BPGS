@@ -9,7 +9,7 @@ from .metrics import evaluate
 
 
 def main():
-    p = argparse.ArgumentParser(description="Candidate IBPR39+BPGS38 release")
+    p = argparse.ArgumentParser(description="IBPR39+BPGS38")
     sub = p.add_subparsers(dest="command", required=True)
     q = sub.add_parser("infer", help="Run baseline, A and AB from a prepared scene")
     q.add_argument("--scene", required=True)

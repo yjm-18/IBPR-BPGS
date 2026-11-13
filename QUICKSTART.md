@@ -1,7 +1,6 @@
 # IBPR + BPGS: Quick Start
 
-Version: **0.1.0rc1, 2026-11-09**. This release contains the current candidate
-experiments on FOR-instance, Ofental, and LAUTx using TreeLearn (TL) and
+Version: **0.1.0**. This release contains the experiments on FOR-instance, Ofental, and LAUTx using TreeLearn (TL) and
 SegmentAnyTree (SAT), with **39-dimensional IBPR and 38-dimensional BPGS**.
 See [README.md](README.md) for the full documentation.
 
@@ -52,9 +51,9 @@ computes reference metrics after producing predictions. Benchmark aggregation an
 training commands are documented in [README.md](README.md) and
 [TRAINING.md](docs/TRAINING.md).
 
-## Version and Publication Notes
+## Release Notes
 
-The release uses 39-dimensional IBPR scorers and the selected candidate configurations.
+The release uses 39-dimensional IBPR scorers and the released configurations.
 The FOR-instance SAT full-method reference has G = 31,930.
 
 The code archive excludes point clouds, upstream baseline checkpoints and repositories,
@@ -62,8 +61,5 @@ historical exploratory experiments, and large prediction caches. Reproduction fr
 point clouds additionally requires the upstream models and datasets, followed by export
 to the documented interface.
 
-Commit the code directory to GitHub and distribute checkpoints as a separate release
-asset. Author names, a DOI, a repository URL, and a software licence have not been
-invented. The owner should add the approved licence and citation metadata before
-advertising an openly licensed release. See [VALIDATION.md](docs/VALIDATION.md) for
-the exact scope of the executed verification.
+See [VALIDATION.md](docs/VALIDATION.md) for verification scope and
+[NOTICE.md](NOTICE.md) for licensing status and third-party components.

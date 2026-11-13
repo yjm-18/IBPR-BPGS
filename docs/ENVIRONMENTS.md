@@ -2,7 +2,7 @@
 
 The components were run in separate environments. The TL/boundary environment must
 not be presented as the environment for SAT or the scikit-learn A/B models.
-Versions below are the recorded candidate-reproduction environments.
+Versions below are the recorded reproduction environments.
 
 | Component | Python | PyTorch | CUDA (PyTorch build) | cuDNN | NumPy | SciPy | scikit-learn | laspy |
 |---|---|---|---|---|---|---|---|---|

@@ -1,23 +1,23 @@
 [
   {
     "path": "NOTICE.md",
-    "bytes": 1103,
-    "sha256": "38cbe8d22e8591c1a703251f2857abdf36f147022356f48541d0a5d46e7d41b8"
+    "bytes": 838,
+    "sha256": "83a948b0b5730915980653802f4973ce399f2cab4360417428442516fcd8b9c3"
   },
   {
     "path": "QUICKSTART.md",
-    "bytes": 3360,
-    "sha256": "7f155bd981307d90c634271c04c185efa31248a5db80def3bf8a13a08b70909d"
+    "bytes": 3061,
+    "sha256": "80d19c2f83a79b456f53fbccdcef5860c6f4de7076e0779564ace0876844cf11"
   },
   {
     "path": "README.md",
-    "bytes": 4141,
-    "sha256": "6d5015d890d47e3db18b8b7ad85d029980d052f5d3c8b9f6f76f121049e473e9"
+    "bytes": 3872,
+    "sha256": "ac8b3548b7bd7f74d70bc32b3cf3234b2f73b9c27d3d360189d4cd0aa9f5a3a6"
   },
   {
     "path": "auxiliary/boundary/README.md",
-    "bytes": 2043,
-    "sha256": "fc902e0bd4cf78450ceca231abbb631a9a36aec33658d94da9d78570c99d0756"
+    "bytes": 2052,
+    "sha256": "3ad8fc723b49176b75c2b0df67c8d883de6dc6ab03c2813f21237bedcafff850"
   },
   {
     "path": "auxiliary/boundary/boundary_integrity.py",
@@ -36,8 +36,8 @@
   },
   {
     "path": "auxiliary/boundary/infer.py",
-    "bytes": 2448,
-    "sha256": "39bf4066f1a6fd3bf9815dab664be96bdb6bc99826a9fafc3d15dad7acc67e63"
+    "bytes": 2455,
+    "sha256": "e37cedeb902d3f6982d0c225739a78b85ca8b8921a34efc06f5636609ca34876"
   },
   {
     "path": "auxiliary/boundary/prepare_labels.py",
@@ -141,8 +141,8 @@
   },
   {
     "path": "configs/checkpoints.json",
-    "bytes": 4890,
-    "sha256": "e5399ec2c79691b1962ebcde981cbf8df12e9089899130005d525d397d4ced40"
+    "bytes": 3120,
+    "sha256": "8a9a2163588c9249b77498e5ec7f0a2401345f526315fdba5b9691abe1b5b9fd"
   },
   {
     "path": "configs/index.json",
@@ -211,13 +211,13 @@
   },
   {
     "path": "docs/BASELINES.md",
-    "bytes": 2698,
-    "sha256": "ecaf49c0682596b442cd83888b5f0c5697b54b8b5296256c0207dfd0d5c7cefe"
+    "bytes": 2697,
+    "sha256": "3238111184a769368b69a13a0f3599d5c657ce520584e54fe23e2f68628a5279"
   },
   {
     "path": "docs/BOUNDARY_VALIDATION.md",
-    "bytes": 1793,
-    "sha256": "851f230ca8fd23d34cb836faa8ab00ec33f1608ca2e3476f4b4a3678a27505eb"
+    "bytes": 1783,
+    "sha256": "3e7d6bcf3f5529bec63df1682033f7341cd109592446f5f79606e6ce5610cbec"
   },
   {
     "path": "docs/DATA_FORMAT.md",
@@ -226,13 +226,13 @@
   },
   {
     "path": "docs/ENVIRONMENTS.md",
-    "bytes": 1594,
-    "sha256": "6d1ae8c8de2a4497d84d2064362409de1024cb095f364d74493052f1f9ab75de"
+    "bytes": 1584,
+    "sha256": "71e9d6a4c028004bc70a4c916fb3dd9a6f61db5302aafe50f19a5e894b3d7fb9"
   },
   {
     "path": "docs/PROTOCOL.md",
-    "bytes": 3256,
-    "sha256": "0d91dee253ea9a58767e466598714c4e54792d6e922e46632e0b3fa8b1739977"
+    "bytes": 3237,
+    "sha256": "1890bc323ca71c123d822b34129f8d60c4593c7564569304d00cb59d272c439a"
   },
   {
     "path": "docs/TRAINING.md",
@@ -241,8 +241,8 @@
   },
   {
     "path": "docs/VALIDATION.md",
-    "bytes": 662,
-    "sha256": "82cf377677ac872b21260c65d61d048bd13114a0880eaa2f7bf6451c591db0d8"
+    "bytes": 651,
+    "sha256": "ef8065a863c53dddedb376a5f2be68e11da453638150cad9c971559e012b9bf2"
   },
   {
     "path": "docs/protocols/dataset_scales.json",
@@ -271,8 +271,8 @@
   },
   {
     "path": "pyproject.toml",
-    "bytes": 538,
-    "sha256": "3b6f999415e218fd47ddf071a9114395a3ff014023456bdbf0b3227bdb311ec9"
+    "bytes": 656,
+    "sha256": "f1c8551795ca57bf428f1b25b2ca02abb34d1b5ee46597f10eff0ed45c042f42"
   },
   {
     "path": "requirements.txt",
@@ -306,13 +306,13 @@
   },
   {
     "path": "src/ibpr_bpgs/__init__.py",
-    "bytes": 89,
-    "sha256": "72c9b6ab95e03eaccb6765d9dec6450cd3723f53938e2b6037059c645575a44b"
+    "bytes": 71,
+    "sha256": "0b82fccb142c1d5f090fa82d4d57a0b8fdf8f3b37c920c85fec38f176375a3bd"
   },
   {
     "path": "src/ibpr_bpgs/cli.py",
-    "bytes": 4189,
-    "sha256": "6261e4affdd811fad47f30919754efdaabae546ca366e86fb27c2bec808efbd5"
+    "bytes": 4171,
+    "sha256": "98d6b2522bb6e5548ad942303e5dc46b5244c41df9f61b937f37018ac933cbee"
   },
   {
     "path": "src/ibpr_bpgs/features.py",

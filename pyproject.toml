@@ -4,10 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ibpr-bpgs"
-version = "0.1.0rc1"
+version = "0.1.0"
 description = "Boundary point reassignment and marginal-gain region selection for tree instance segmentation"
 requires-python = ">=3.11,<3.12"
 dependencies = ["numpy==1.26.4", "scipy==1.13.1", "scikit-learn==1.5.1", "numba==0.60.0", "threadpoolctl==3.5.0"]
+
+[project.urls]
+Repository = "https://github.com/yjm-18/IBPR-BPGS"
+Issues = "https://github.com/yjm-18/IBPR-BPGS/issues"
 
 [project.scripts]
 ibpr-bpgs = "ibpr_bpgs.cli:main"

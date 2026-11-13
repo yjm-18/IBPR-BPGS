@@ -1,7 +1,7 @@
 # IBPR + BPGS
 
-Candidate research release **0.1.0rc1 (2026-11-09)** for local tree-instance label correction.
-The source release corresponds to the **39-dimensional IBPR** candidate experiments on
+Release **0.1.0** for local tree-instance label correction.
+The source release corresponds to the **39-dimensional IBPR** experiments on
 FOR-instance, Ofental and LAUTx with TreeLearn (TL) and SegmentAnyTree (SAT).
 
 IBPR scores point-to-instance relations; BPGS predicts the marginal net correction of
@@ -24,7 +24,7 @@ Auxiliary boundary training/inference requires a separate CUDA environment; see
 
 ## Checkpoints
 
-Extract `ibpr-bpgs-0.1.0rc1-checkpoints.zip` **inside this repository**. It creates
+Extract the separate checkpoint archive **inside this repository**. It creates
 `checkpoints/`. The archive contains four final A models, sixteen B models, and the
 shared auxiliary boundary checkpoint. LAUTx reuses the FOR-instance A model and has
 one B model per held-out plot. Checkpoints are excluded from normal Git commits.
@@ -34,8 +34,7 @@ ibpr-bpgs verify-weights --weights checkpoints
 ```
 
 Load pickle/PyTorch files only from a trusted source. SHA256 and byte sizes are in
-[configs/checkpoints.json](configs/checkpoints.json). No external download URL is
-invented; the repository owner can attach the supplied weight archive when publishing.
+[configs/checkpoints.json](configs/checkpoints.json). The weight archive is distributed separately from the source code.
 
 ## Prepare inputs and infer
 
@@ -81,9 +80,7 @@ IoU, mAP, PRF and NIR in aggregate reports are percentages. G is a point count.
 The repository includes tests of 5NN ties, strict thresholds, region connectivity,
 39D features, marginal target replay and empty predictions.
 
-## Publication metadata
+## Repository and licensing
 
-The owner has not yet supplied a public repository URL, author list, DOI or licence choice.
-These are not fabricated. No broad software licence is granted by this draft;
-see [rights and dependencies](NOTICE.md). Add the owner-approved licence and citation
-metadata before advertising this as an openly licensed release.
+Repository: [yjm-18/IBPR-BPGS](https://github.com/yjm-18/IBPR-BPGS).
+See [NOTICE.md](NOTICE.md) for licensing status and third-party components.
