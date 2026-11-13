@@ -1,6 +1,5 @@
 {
   "IBPR_BPGS": {
-    "interpreter": "${HOME}/anaconda3/bin/python",
     "versions": {
       "python": "3.11.7 (main, Dec 15 2023, 18:12:31) [GCC 11.2.0]",
       "numpy": "1.26.4",
@@ -10,11 +9,9 @@
       "cuda": "11.7",
       "cudnn": 8700,
       "laspy": "2.5.4"
-    },
-    "stderr": ""
+    }
   },
   "TL_boundary": {
-    "interpreter": "${HOME}/anaconda3/envs/softgroup/bin/python",
     "versions": {
       "python": "3.12.9 | packaged by Anaconda, Inc. | (main, Feb  6 2025, 18:56:27) [GCC 11.2.0]",
       "numpy": "2.2.4",
@@ -24,11 +21,9 @@
       "cuda": "11.8",
       "cudnn": 90100,
       "laspy": "2.6.1"
-    },
-    "stderr": ""
+    }
   },
   "SAT": {
-    "interpreter": "${HOME}/anaconda3/envs/torchpoint3denv/bin/python",
     "versions": {
       "python": "3.8.20 (default, Oct  3 2024, 15:24:27) \n[GCC 11.2.0]",
       "numpy": "1.19.5",
@@ -38,7 +33,6 @@
       "cuda": "11.1",
       "cudnn": 8005,
       "laspy": "2.0.3"
-    },
-    "stderr": ""
+    }
   }
 }

@@ -66,19 +66,16 @@ contain point clouds, upstream weights or multi-gigabyte prediction caches.
 
 ## Training and protocol
 
-See [training commands](docs/TRAINING.md), [protocol and provenance](docs/PROTOCOL.md),
-and the selected configurations under `configs/`. Current 39D experiments retrained
-scorers while **inheriting the previously selected configurations**; no new hyperparameter
-search was done in that refit. `reproduce-fixed` implements that path. A separate
-`nested-b` command supports fresh LAUTx inner/outer leave-one-plot-out training.
+See [training commands](docs/TRAINING.md), [experiment protocol](docs/PROTOCOL.md),
+and the selected A/B configurations under `configs/`. `reproduce-fixed` trains with
+the supplied fixed parameters. `nested-b` implements LAUTx inner/outer
+leave-one-plot-out training and selection.
 
 ## Results and validation
 
-[results/comparison.csv](results/comparison.csv) has all 18 dataset/model/arm summaries.
-[Per-scene results](results/per_scene) retain the corresponding candidate measurements.
+[results/comparison.csv](results/comparison.csv) contains 14 dataset/model/arm summaries: baseline and +A+B for FOR-instance and Ofental; baseline, +A and +A+B for LAUTx.
 These are reference outputs, not a claim that new upstream inference is bitwise identical.
-IoU, mAP, PRF in aggregate reports are percentages; per-scene metric JSON uses fractions
-for IoU/mAP/PRF and percentage NIR. G is a point count.
+IoU, mAP, PRF and NIR in aggregate reports are percentages. G is a point count.
 
 [Release validation](docs/VALIDATION.md) states which paths were actually executed.
 The repository includes tests of 5NN ties, strict thresholds, region connectivity,

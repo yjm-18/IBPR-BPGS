@@ -10,8 +10,7 @@ upstream notices to be preserved when applicable.
 Third-party dependencies include NumPy, SciPy, scikit-learn, Numba, threadpoolctl, PyTorch,
 spconv, laspy, PyYAML and SoftGroup voxelization operators. They retain their own licences.
 TreeLearn, SegmentAnyTree, upstream checkpoints and raw datasets are not redistributed
-in this code archive. `docs/source_provenance.json` records local extraction lineage;
-`configs/checkpoints.json` records checkpoint hashes and relative historical origins.
+in this code archive. `configs/checkpoints.json` records the selected candidate checkpoint hashes and identifiers.
 
-There is no repository URL, DOI or author metadata embedded because these have not yet
-been supplied. The package version identifies a candidate release, not a publication claim.
+The project repository is https://github.com/yjm-18/IBPR-BPGS. A DOI and author
+metadata have not yet been supplied. The package version identifies a candidate release, not a publication claim.

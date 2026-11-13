@@ -1,9 +1,0 @@
-{
-  "path": "${WORKSPACE}/result/lautx_local_gain_ablation_20261013/treelearn/p12/baseline_source.npy",
-  "sha256": "932aee45c622615147ce692268a3d629bb4edef07dbbe23ca3602bc37b578ef5",
-  "source_points": 3621726,
-  "evaluation_points": 3621726,
-  "GT_trees": 61,
-  "boundary_model": "${WORKSPACE}/pointnet/SoftGroup-main/boundary_3/work_dirs/forinstance_boundary_official13_8_20261105/boundary_only/best_boundary_model.pth",
-  "baseline_array_sha256": "8ed1a12d53940daba6f527de5548e58ca3004dbd91875423a5fcbe8bab889c48"
-}

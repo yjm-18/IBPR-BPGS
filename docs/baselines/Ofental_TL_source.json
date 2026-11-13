@@ -1,8 +1,0 @@
-{
-  "features": "${WORKSPACE}/pointnet/TreeLearn-main/data/ofental_boundary_experiment/results_continue100_vanilla/pointwise_results/pointwise_results.npz",
-  "source_points": 1740512,
-  "evaluation_points": 2474717,
-  "GT": 119,
-  "baseline_sha256": "b6db2b8b407624f6f0fcdd4eedc3be52b9a0306166b7bf1c38c9e672ab2b9afc",
-  "evaluation_catalogue": "existing frozen Ofental; not newly downsampled"
-}

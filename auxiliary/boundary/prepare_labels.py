@@ -1,5 +1,5 @@
 """FOR-instance raw LAS -> class3 removal -> 0.1m -> fixed domain-K binary labels.
-K values preserve historical development provenance; they are not newly selected.
+Uses the fixed domain-specific K values below.
 """
 import argparse
 from pathlib import Path

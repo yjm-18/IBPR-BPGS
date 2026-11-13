@@ -1,7 +1,0 @@
-{
-  "path": "${WORKSPACE}/result/lautx_new13_8_native_map40_tuning_20261107/p2/selected_prediction.npz",
-  "sha256": "e692d8f8b3e5ad81cdef99f4e727e49453c5e453c57212f38cff0dfd75a4ce3c",
-  "points": 3949057,
-  "GT": 79,
-  "features_from_original_new13_8": true
-}

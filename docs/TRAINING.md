@@ -24,8 +24,7 @@ are restricted to that fold before building training regions.
 A uses maximum-intersection Hungarian labels. B uses a frozen baseline maximum-IoU
 matching and all-proposals-minus-one-region exact replay, including TL 5NN. Selected
 parameters and size-weight exponents are in each config. `reproduce-fixed` does not
-inspect validation/test GT or reselect thresholds. Historical validation selections,
-including Ofental's IoU/mAP constraints, are recorded in `docs/selection/`.
+inspect validation/test GT or reselect thresholds. The final selected parameters and thresholds are recorded in `configs/`.
 
 # LAUTx frozen A, nested B
 

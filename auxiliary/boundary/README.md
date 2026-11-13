@@ -17,8 +17,8 @@ python auxiliary/boundary/train_boundary_only.py --config auxiliary/boundary/con
 
 Repeat using the split list in `docs/protocols/forinstance_manifest.json`; validation
 files go under `data/boundary/val`. Configuration key `data.test` denotes the validation
-loader, not the held-out experiment test set. K values are fixed historical values;
-see `docs/PROTOCOL.md` for their development provenance.
+loader, not the held-out experiment test set. The candidate uses fixed domain-specific K values.
+Checkpoint selection uses sampled validation AP; see [the exact procedure](../../docs/BOUNDARY_VALIDATION.md).
 
 Use the distributed frozen predictor to generate probabilities on common evaluation points:
 
@@ -32,3 +32,5 @@ python auxiliary/boundary/infer.py --points points.npz \
 Map these probabilities to TL source points using the same frozen coordinate correspondence;
 SAT consumes them on the aligned evaluation points. Full neural training was not rerun
 as part of code packaging. The archived checkpoint remains the reproduction reference.
+
+See [ENVIRONMENTS.md](../../docs/ENVIRONMENTS.md) for the complete component-specific version table.

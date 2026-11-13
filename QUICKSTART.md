@@ -14,8 +14,8 @@ See [README.md](README.md) for the full documentation.
 - `configs/manifests/`: ordered training and test input manifests.
 - `auxiliary/boundary/`: boundary-label preparation, predictor training, and inference;
   this component requires a separate CUDA environment.
-- `results/`: 18 aggregate result rows and per-scene baseline, +A, and +A+B reference metrics.
-- `docs/`: input contracts, training splits, historical validation selections, metric
+- `results/`: 14 aggregate result rows: baseline and +A+B for FOR-instance and Ofental; baseline, +A and +A+B for LAUTx.
+- `docs/`: input contracts, training splits, metric
   definitions, environment records, and release validation.
 - `tests/`: checks of thresholds, matching, 5NN propagation, and marginal supervision.
 
@@ -54,11 +54,8 @@ training commands are documented in [README.md](README.md) and
 
 ## Version and Publication Notes
 
-The 39-dimensional refit inherits previously selected hyperparameters and thresholds;
-it does not perform a new parameter search or substitute older 42-dimensional results.
-The FOR-instance SAT full-method reference has G = 31,930. Both Ofental configurations
-accept every region at their selected B thresholds, so their +A and +A+B results coincide.
-These outcomes are preserved in the code and reference results.
+The release uses 39-dimensional IBPR scorers and the selected candidate configurations.
+The FOR-instance SAT full-method reference has G = 31,930.
 
 The code archive excludes point clouds, upstream baseline checkpoints and repositories,
 historical exploratory experiments, and large prediction caches. Reproduction from raw
